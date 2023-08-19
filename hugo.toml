@@ -1,0 +1,42 @@
+baseURL = 'http://yannickleveler.com/'
+languageCode = 'fr'
+title = 'Yannick Le Véler'
+theme = 'PaperMod'
+
+[params.homeInfoParams]
+title = 'Bienvenue,'
+content = """Bonjour, je suis Yannick Le Véler. 
+
+Je suis responsable de la formation Data chez Leroy Merlin France et enseignant en BUT Science des données à l'Université de Lille. 
+
+Ces deux activités consistent à découvrir de nouveaux sujets, les comprendre, les synthétiser et les restituer. J'ai longtemps fait ça égoistement... 
+
+J'ai décidé à partir de maintenant de partager mes notes à tout ceux qui pourraient être intéressés par les sujets autour de la Data, des nouvelles technologies et de la productivité."""
+
+[[params.socialIcons]]
+name = 'github'
+url = 'https://github.com/YannickLeVeler'
+
+[[params.socialIcons]]
+name = 'twitter'
+url = 'https://twitter.com/@YannickLeVeler'
+
+[[params.socialIcons]]
+name = 'linkedin'
+url = 'https://www.linkedin.com/in/yannick-le-v%C3%A9ler-98565137/'
+
+[[params.socialIcons]]
+name = 'youtube'
+url = 'https://www.youtube.com/@YannickLeVeler'
+
+[[menu.main]]
+identifier = 'archives'
+name = 'Archives'
+url = 'archives'
+weight = 10
+
+[[menu.main]]
+identifier = 'search'
+name = 'Recherche'
+url = 'search'
+weight = 20
