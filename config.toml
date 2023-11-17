@@ -40,3 +40,10 @@ identifier = 'search'
 name = 'Recherche'
 url = 'search'
 weight = 20
+
+[[menu.main]]
+identifier = 'notes'
+name = 'Notes'
+url = 'https://notes.yannickleveler.com'
+weight = 30
+
