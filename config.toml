@@ -7,11 +7,11 @@ theme = 'PaperMod'
 title = 'Bienvenue,'
 content = """Bonjour, je suis Yannick Le Véler. 
 
-Je suis responsable de la formation Data chez Leroy Merlin France et enseignant en BUT Science des données à l'Université de Lille. 
+Je suis Manager Data Analytics chez Leroy Merlin France et enseignant en BUT Science des données à l'Université de Lille. 
 
-Ces deux activités consistent à découvrir de nouveaux sujets, les comprendre, les synthétiser et les restituer. J'ai longtemps fait ça égoistement... 
+Ces deux activités ont de nombreux points communs : faire de la veille sur de nombreux sujets, les comprendre, les synthétiser et les restituer afin de faire progresser ceux qui m'entourent. J'ai longtemps fait ça égoistement... 
 
-J'ai décidé à partir de maintenant de partager mes notes à tout ceux qui pourraient être intéressés par les sujets autour de la Data, des nouvelles technologies et de la productivité."""
+J'ai décidé à partir de maintenant de partager mes notes à tout ceux qui pourraient être intéressés par les sujets autour de la Data, des nouvelles technologies, des organisations et de la productivité."""
 
 [[params.socialIcons]]
 name = 'github'
@@ -23,7 +23,7 @@ url = 'https://twitter.com/@YannickLeVeler'
 
 [[params.socialIcons]]
 name = 'linkedin'
-url = 'https://www.linkedin.com/in/yannick-le-v%C3%A9ler-98565137/'
+url = 'https://www.linkedin.com/in/yleveler/'
 
 [[params.socialIcons]]
 name = 'youtube'
@@ -47,3 +47,7 @@ name = 'Notes'
 url = 'https://notes.yannickleveler.com'
 weight = 30
 
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe=true
