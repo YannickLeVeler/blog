@@ -3,6 +3,15 @@ languageCode = 'fr'
 title = 'Yannick Le Véler'
 theme = 'PaperMod'
 
+enableRobotsTXT = true
+
+[params]
+author = 'Yannick Le Véler'
+en = 'production'
+defaultTheme = 'dark'
+ShowPostNavLinks = true
+googleAnalytics = 'G-8YS6GWNSJK'
+
 [params.homeInfoParams]
 title = 'Bienvenue,'
 content = """Bonjour, je suis Yannick Le Véler. 
