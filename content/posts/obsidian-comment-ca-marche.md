@@ -1,15 +1,14 @@
 ---
 title: "Obsidian - Comment ça marche ?"
-date: 2024-05-23T21:57:13+02:00
-draft: true
+date: 2024-06-04T06:00:00+02:00
+draft: false
 ---
-# Obsidian, comment ça marche ? 
-Si vous voulez commencer à travailler sur **Obsidian**, la première étape consiste à télécharger l'application avec le lien suivant : [_https://obsidian.md/download_](https://obsidian.md/download)
+Si vous voulez commencer à travailler sur <a target="_blank" href="https://obsidian.md/"> **Obsidian**</a> , la première étape consiste à télécharger l'application avec le lien suivant : [_https://obsidian.md/download_](https://obsidian.md/download)
 
-Pas d'inquiétude, **Obsidian** fonctionne sur iOS, Android, Windows, Mac et Linux.
+Pas d'inquiétude, <a target="_blank" href="https://obsidian.md/"> **Obsidian**</a>  fonctionne sur iOS, Android, Windows, Mac et Linux.
 
 ## Créez votre premier coffre
-La première fois que vous lancez **Obsidian**, vous allez devoir créer un nouveau **coffre** (**vault** en anglais) :
+La première fois que vous lancez <a target="_blank" href="https://obsidian.md/"> **Obsidian**</a> , vous allez devoir créer un nouveau **coffre** (**vault** en anglais) :
 ![Créer un nouveau coffre](/images/Pasted_image_20230722202825.jpg)
 
 Lorsque vous créez votre **coffre**, vous devez indiquer son nom et le dossier local que vous souhaitez utiliser.
@@ -18,7 +17,7 @@ Dans notre exemple, le coffre s'appelle **Formation** et je vais l'enregistrer d
 
 ![Configurer le coffre](/images/Pasted_image_20230722202931.jpg)
 
-Une fois le **coffre** créé, **Obsidian** s'ouvre, vous permettant de créer votre première note.
+Une fois le **coffre** créé, <a target="_blank" href="https://obsidian.md/"> **Obsidian**</a>  s'ouvre, vous permettant de créer votre première note.
 
 Si on regarde le répertoire **Formation**, créé dans _C:\Obsidian_, on découvre un répertoire _.obsidian_. Ce répertoire, à la racine de tout coffre que vous créez, contient la configuration de votre coffre, incluant vos raccourcis claviers, vos plugins, vos thèmes
 
@@ -29,9 +28,9 @@ Comme évoqué auparavant, vous pouvez créer autant de **coffre** que vous le s
 
 Pour ma part, j'ai un **coffre** principal que j'utilise pour toutes mes notes, personnelles ou professionnelles, pour mes lectures, mes projets, pour tout. Cela me permet de pouvoir créer des connexions entre mes notes, et de faire émerger des idées de cet ensemble.
 
-J'ai un deuxième **coffre** uniquement pour la formation à **Obsidian**. Je l'utilise pour expliquer l'utilisation d'**Obisidan** et de ces plugins.
+J'ai un deuxième **coffre** uniquement pour la formation à <a target="_blank" href="https://obsidian.md/"> **Obsidian**</a> . Je l'utilise pour expliquer l'utilisation d'<a target="_blank" href="https://obsidian.md/"> **Obsidian**</a>  et de ces plugins.
 
-A force de lecture sur le sujet, je sais que d'autres utilisateurs d'**Obsidian** peuvent créer un coffre pour un projet particulier (l'écriture d'un livre, la construction d'une maison). Je comprends leur choix mais ce n'est pas mon mode de fonctionnement, j'ai besoin de pouvoir connecter mes notes entre elles.
+A force de lecture sur le sujet, je sais que d'autres utilisateurs d'<a target="_blank" href="https://obsidian.md/"> **Obsidian**</a>  peuvent créer un coffre pour un projet particulier (l'écriture d'un livre, la construction d'une maison). Je comprends leur choix mais ce n'est pas mon mode de fonctionnement, j'ai besoin de pouvoir connecter mes notes entre elles.
 
 Je prends de nombreuses notes sur une journée, liée à une lecture, un podcast, une vidéo, une réunion professionnelle, un échange avec un ami, et de ces notes émergent des idées communes, des connexions entre elles ce qui me serait plus difficile à gérer entre des coffres différents.
 
