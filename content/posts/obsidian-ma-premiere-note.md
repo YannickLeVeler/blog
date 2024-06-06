@@ -3,7 +3,8 @@ title: "Obsidian - Ma Premiere Note"
 date: 2024-06-05T08:00:00+02:00
 draft: false
 ---
-Dans notre [dernier article](/posts/obsidian-comment-ca-marche), nous avons créer notre premier **coffre** **Formation** dans _C:\Obsidian_.
+Dans notre [dernier article](/posts/obsidian-comment-ca-marche), nous avons créer notre premier **coffre** **Formation** dans 
+_C:\Obsidian_.
 
 Lorsque vous lancez <a target="_blank" href="https://obsidian.md/"> **Obsidian**</a>, il démarre dans le dernier **coffre** ouvert dans l’application.
 
