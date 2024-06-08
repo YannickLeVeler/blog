@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://yannickleveler.com/sitemap.xml

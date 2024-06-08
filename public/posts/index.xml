@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Yannick Le Véler</title>
+    <link>http://yannickleveler.com/posts/</link>
+    <description>Recent content in Posts on Yannick Le Véler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 07 Jun 2024 08:00:00 +0200</lastBuildDate><atom:link href="http://yannickleveler.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obsidian - Markdown : la mise en forme</title>
+      <link>http://yannickleveler.com/posts/obsidian-markdown-premiere-partie/</link>
+      <pubDate>Fri, 07 Jun 2024 08:00:00 +0200</pubDate>
+      
+      <guid>http://yannickleveler.com/posts/obsidian-markdown-premiere-partie/</guid>
+      <description>Grâce à l’article précédent, nous avons maintenant un coffre Formation synchronisé sur deux ordinateurs Windows et un téléphone.
+Pour l’instant ce coffre contient un dossier Notre premier dossier et une note, Notre première note.
+Comme précisé dans un précédent article, le format des notes dans Obsidian est le Markdown.
+Je vous propose dans cet article de découvrir les principales basiles pour formater vos notes. Je mets de coté pour un prochain article toutes les balises qui permettent de faire des liens.</description>
+    </item>
+    
+    <item>
+      <title>Obsidian - Synchronisation via Dropbox</title>
+      <link>http://yannickleveler.com/posts/obsidian-synchronisation-via-dropbox/</link>
+      <pubDate>Thu, 06 Jun 2024 08:00:00 +0200</pubDate>
+      
+      <guid>http://yannickleveler.com/posts/obsidian-synchronisation-via-dropbox/</guid>
+      <description>Je possède deux ordinateurs sous Windows, un professionnel et un personnel. Je possède également un téléphone sous Android.
+J’apprécie Obsidian, mais impossible de continuer à l’utiliser si je ne peux pas écrire des notes et y accéder de tous mes appareils.
+Une fois installé Obsidian, j’ai cherché une solution simple et efficace pour partager mes notes et les synchroniser entre mes appareils, et c’est là que j’ai trouvé Dropbox.
+Evidemment j’avais déjà entendu parler de ce service de stockage, j’avais même créer un compte à l’époque mais finalement je ne l’avais jamais réellement utilisé.</description>
+    </item>
+    
+    <item>
+      <title>Obsidian - Ma Premiere Note</title>
+      <link>http://yannickleveler.com/posts/obsidian-ma-premiere-note/</link>
+      <pubDate>Wed, 05 Jun 2024 08:00:00 +0200</pubDate>
+      
+      <guid>http://yannickleveler.com/posts/obsidian-ma-premiere-note/</guid>
+      <description>Dans notre dernier article, nous avons créer notre premier coffre Formation dans C:\Obsidian.
+Lorsque vous lancez Obsidian, il démarre dans le dernier coffre ouvert dans l’application.
+Si vous cliquez sur Créer un nouveau fichier ou sur Ctrl + N, vous allez créer votre première note.
+Par défaut, votre note se nomme Sans titre, vous pouvez évidemment modifier le titre à votre convenance.
+Dans notre cas, nous allons la nommer : Notre première note.</description>
+    </item>
+    
+    <item>
+      <title>Obsidian - Comment ça marche ?</title>
+      <link>http://yannickleveler.com/posts/obsidian-comment-ca-marche/</link>
+      <pubDate>Tue, 04 Jun 2024 06:00:00 +0200</pubDate>
+      
+      <guid>http://yannickleveler.com/posts/obsidian-comment-ca-marche/</guid>
+      <description>Si vous voulez commencer à travailler sur Obsidian , la première étape consiste à télécharger l&amp;rsquo;application avec le lien suivant : https://obsidian.md/download
+Pas d&amp;rsquo;inquiétude, Obsidian fonctionne sur iOS, Android, Windows, Mac et Linux.
+Créez votre premier coffre La première fois que vous lancez Obsidian , vous allez devoir créer un nouveau coffre (vault en anglais) : Lorsque vous créez votre coffre, vous devez indiquer son nom et le dossier local que vous souhaitez utiliser.</description>
+    </item>
+    
+    <item>
+      <title>Obsidian - Pourquoi choisir Obsidian ?</title>
+      <link>http://yannickleveler.com/posts/obsidian-pourquoi-choisir-obsidian/</link>
+      <pubDate>Mon, 03 Jun 2024 08:00:00 +0200</pubDate>
+      
+      <guid>http://yannickleveler.com/posts/obsidian-pourquoi-choisir-obsidian/</guid>
+      <description>Obsidian est une application de gestion des connaissances personnelles (PKM : Personal Knowledge Management). Il existe de nombreuses applications de ce type : OneNote, Evernote, Notion&amp;hellip;
+Alors, pourquoi choisir Obsidian ?
+Organisation des notes Le premier avantage qui m&amp;rsquo;a fait choisir Obsidian c&amp;rsquo;est qu&amp;rsquo;il vous permet de choisir la manière dont vous souhaitez organiser vos notes, grâce :
+aux dossiers, aux tags, aux liens, aux favoris Tout cet arsenal s&amp;rsquo;adapte facilement à votre méthode d&amp;rsquo;organisation (PARA, Zettelkasten, Johnny Decimal, Dewey Decimal&amp;hellip;)</description>
+    </item>
+    
+    <item>
+      <title>Obsidian - Pourquoi prendre des notes ? </title>
+      <link>http://yannickleveler.com/posts/obsidian-pourquoi-prendre-des-notes/</link>
+      <pubDate>Sun, 02 Jun 2024 08:00:00 +0200</pubDate>
+      
+      <guid>http://yannickleveler.com/posts/obsidian-pourquoi-prendre-des-notes/</guid>
+      <description>Cela fait sept ans que je suis enseignant à l&amp;rsquo;Université de Lille et chaque année, j&amp;rsquo;essaye d&amp;rsquo;apprendre à mes étudiants l&amp;rsquo;importance de la prise de notes, si possible sur un outil prévu pour ça.
+Toujours le même constat, ceux qui prennent des notes s&amp;rsquo;en sortent mieux.
+Quoi de plus logique :
+Your mind is for having ideas, not holding them.
+&amp;ndash; David Allen
+Je le constate également au quotidien dans mon travail : beaucoup de réunions, beaucoup d&amp;rsquo;informations à retenir, mon cerveau ne peut pas suivre, la prise de notes est indispensable.</description>
+    </item>
+    
+    <item>
+      <title>Apprendre en public</title>
+      <link>http://yannickleveler.com/posts/apprendre-en-public/</link>
+      <pubDate>Sat, 01 Jun 2024 08:00:00 +0200</pubDate>
+      
+      <guid>http://yannickleveler.com/posts/apprendre-en-public/</guid>
+      <description>La création de ce blog fait suite à la lecture du livre Austin Kleon - Montrez votre travail !.
+L&amp;rsquo;auteur nous rappelle dans son livre l&amp;rsquo;importance de partager, régulièrement et au plus grand nombre, notre travail, nos idées, nos recherches afin de générer des échanges avec d&amp;rsquo;autres personnes passionnées par les mêmes sujets.
+Ces échanges permettront d&amp;rsquo;enrichir vos réflexions sur les sujets qui vous passionnent.
+Cela tombe bien les sujets qui me passionnent son nombreux : la data, les nouvelles technologies, les organisations, la productivité&amp;hellip; !</description>
+    </item>
+    
+  </channel>
+</rss>

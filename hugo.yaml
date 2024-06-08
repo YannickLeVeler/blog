@@ -1,0 +1,53 @@
+baseURL: "http://yannickleveler.com/"
+languageCode: fr
+title: Yannick Le Véler
+theme: PaperMod
+
+enableRobotsTXT: true
+
+params:
+  author: Yannick Le Véler
+  en: production
+  defaultTheme: dark
+  ShowPostNavLinks: true
+  googleAnalytics: G-8YS6GWNSJK
+
+  homeInfoParams:
+    title: "Bienvenue,"
+    content: "Bonjour, je suis Yannick Le Véler. \n
+\n
+Je suis Manager Data Analytics chez Leroy Merlin France et enseignant en BUT Science des données à l'Université de Lille. \n
+\n
+Ces deux activités ont de nombreux points communs : faire de la veille sur de nombreux sujets, les comprendre, les synthétiser et les restituer afin de faire progresser ceux qui m'entourent. J'ai longtemps fait ça égoistement... \n
+\n
+J'ai décidé à partir de maintenant de partager mes notes à tout ceux qui pourraient être intéressés par les sujets autour de la Data, des nouvelles technologies, des organisations et de la productivité."
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/YannickLeVeler"
+    - name: twitter
+      url: "https://x.com/@YannickLeVeler"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/yleveler/"
+    - name: youtube
+      url: "https://www.youtube.com/@YannickLeVeler"
+
+menu:
+  main:
+    - identifier: archives
+      name: Archives
+      url: archives
+      weight: 10
+    - identifier: search
+      name: Recherche
+      url: search
+      weight: 20
+    - identifier: notes
+      name: Notes
+      url: "https://notes.yannickleveler.com"
+      weight: 30
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
