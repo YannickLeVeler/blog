@@ -7,7 +7,7 @@ enableRobotsTXT: true
 
 params:
   author: Yannick Le Véler
-  en: production
+  env: production
   defaultTheme: dark
   ShowPostNavLinks: true
   googleAnalytics: G-8YS6GWNSJK
