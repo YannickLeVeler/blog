@@ -32,6 +32,10 @@ J'ai décidé à partir de maintenant de partager mes notes à tout ceux qui pou
     - name: youtube
       url: "https://www.youtube.com/@YannickLeVeler"
 
+  analytics:
+    google:
+      SiteVerificationTag: "G-8YS6GWNSJK"
+
 menu:
   main:
     - identifier: archives
