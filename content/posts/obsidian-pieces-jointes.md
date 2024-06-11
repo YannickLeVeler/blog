@@ -5,7 +5,7 @@ draft: false
 ---
 Dans le [dernier article](/posts/obsidian-la-methode-PARA), je vous ai montré l'organisation de mon coffre-fort dans <a target="_blank" href="https://obsidian.md/"> **Obsidian**</a> :
 
-![Coffre-fort](/images/Pasted_image_20240531130253.png#center).
+![Coffre-fort](/images/Pasted_image_20240531130253.png#center)
 Je vais maintenant vous montrer comment je gère mes pièces jointes.
 
 En effet, au quotidien je prends de nombreux screenshots, lorsque je suis une formation, j'assiste à une réunion ou regarde une conférence.
