@@ -10,7 +10,7 @@ params:
   env: production
   defaultTheme: dark
   ShowPostNavLinks: true
-  googleAnalytics: G-8YS6GWNSJK
+  googleAnalyticsID: G-8YS6GWNSJK
 
   homeInfoParams:
     title: "Bienvenue,"
