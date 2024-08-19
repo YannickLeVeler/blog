@@ -67,7 +67,11 @@ Tiago Forte conseille également de numéroter vos dossiers de la manière suiva
 
 De mon coté, j'applique une convention de nommage légèrement différente mais le résultat reste le même : 
 
+<<<<<<< HEAD
 ![Tiago Forte - Construire un second cerveau](/images/Pasted_image_20240531130253.jpg#center)
+=======
+![Coffre-fort](/images/Pasted_image_20240531130253.png#center)
+>>>>>>> 29c4aa0ad5724584c7aec4660107d10e25afb98b
 
 ## Miroir
 Comme le conseille <a target="_blank" href="https://fortelabs.com/"> **Tiago Forte**</a>, j'ai organisé mon Google Drive en miroir de cette organisation afin de faciliter le fait de retrouver les fichiers liés aux notes prises dans <a target="_blank" href="https://obsidian.md/"> **Obsidian**</a>.
