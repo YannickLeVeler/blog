@@ -57,6 +57,6 @@ Maintenant que vous avez bien compris l'utilité de la prise de notes, nous allo
 
 
 # Conseil de lecture
-![david Allen - S'organiser pour réussir](/images/Pasted_image_20240602184529.png)
+![david Allen - S'organiser pour réussir](/images/Pasted_image_20240602184529.jpg)
 <center><a target="_blank" href="https://amzn.to/4bKmoWQ">David Allen - S'organiser pour réussir : La méthode GTD ou l'art de l'efficacité sans stress !</a></center>
 

@@ -25,5 +25,5 @@ J'espère que vous y trouverez du contenu intéressant et surtout n'hésitez pas
 
 
 # Conseil de lecture
-![Austin Kleon - Montrez votre travail !](/images/Pasted_image_20240524134759.png)
+![Austin Kleon - Montrez votre travail !](/images/Pasted_image_20240524134759.jpg)
 <center><a target="_blank" href="https://amzn.to/4bIT5nm">Austin Kleon - Montrez votre travail ! </a></center>

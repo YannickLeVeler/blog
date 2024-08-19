@@ -67,7 +67,7 @@ Tiago Forte conseille également de numéroter vos dossiers de la manière suiva
 
 De mon coté, j'applique une convention de nommage légèrement différente mais le résultat reste le même : 
 
-![Tiago Forte - Construire un second cerveau](/images/Pasted_image_20240531130253.png#center)
+![Tiago Forte - Construire un second cerveau](/images/Pasted_image_20240531130253.jpg#center)
 
 ## Miroir
 Comme le conseille <a target="_blank" href="https://fortelabs.com/"> **Tiago Forte**</a>, j'ai organisé mon Google Drive en miroir de cette organisation afin de faciliter le fait de retrouver les fichiers liés aux notes prises dans <a target="_blank" href="https://obsidian.md/"> **Obsidian**</a>.
@@ -79,7 +79,7 @@ Je vous montrerai dans un prochain article comment je m'organise au sein de ses 
 
 # Conseils de lecture
 
-![Tiago Forte - Construire un second cerveau](/images/Pasted_image_20240609203513.png#center)
+![Tiago Forte - Construire un second cerveau](/images/Pasted_image_20240609203513.jpg#center)
 <center><a target="_blank" href="https://amzn.to/3XmWTGy">Tiago Forte - Construire un second cerveau : Une méthode complète pour organiser votre vie numérique et libérer votre potentiel créatif</a></center>
 
 ![Tiago Forte - The PARA Method](/images/Pasted_image_20230917180552.jpg#center)
