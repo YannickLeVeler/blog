@@ -17,12 +17,12 @@ Templater facilite la standardisation de vos notes, la saisie rapide de données
 ## Installation et configuration
 
 Une fois le module complémentaire installé, nous allons mettre quelques paramètres à jour.
-![Module Calendar](/images/Pasted_image_20240616110148.png#center)
+![Module Calendar](/images/Pasted_image_20240616110148.jpg#center)
 
 
 
 Tour d'abord l'endroit où se trouve nos templates : **Templater folder location :** 00_INBOX/00_TEMPLATES
-![Module Calendar](/images/Pasted_image_20240616110616.png#center)
+![Module Calendar](/images/Pasted_image_20240616110616.jpg#center)
 
 
 Ensuite, nous allons modifier deux options :
@@ -30,7 +30,7 @@ Ensuite, nous allons modifier deux options :
 - La deuxième de cacher l'icone Templater dans le menu à gauche d'**Obisdian**.
 **Trigger Templater on new file creation :** true
 **Show icon in sidebar :** false
-![Module Calendar](/images/Pasted_image_20240616110656.png#center)
+![Module Calendar](/images/Pasted_image_20240616110656.jpg#center)
 
 
 ## Utilisation 
