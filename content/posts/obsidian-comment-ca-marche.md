@@ -2,6 +2,7 @@
 title: "Obsidian - Comment ça marche ?"
 date: 2024-06-04T06:00:00+02:00
 draft: false
+tags: ["Obsidian"]
 ---
 Si vous voulez commencer à travailler sur <a target="_blank" href="https://obsidian.md/"> **Obsidian**</a> , la première étape consiste à télécharger l'application avec le lien suivant : [_https://obsidian.md/download_](https://obsidian.md/download)
 

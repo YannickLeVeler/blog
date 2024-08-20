@@ -2,6 +2,7 @@
 title: "Obsidian- Gestion des pièces jointes"
 date: 2024-06-10T08:00:00+02:00
 draft: false
+tags: ["Obsidian"]
 ---
 Dans le [dernier article](/posts/obsidian-la-methode-PARA), je vous ai montré l'organisation de mon coffre-fort dans <a target="_blank" href="https://obsidian.md/"> **Obsidian**</a> :
 

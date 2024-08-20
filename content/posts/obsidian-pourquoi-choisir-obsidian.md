@@ -2,6 +2,7 @@
 title: "Obsidian - Pourquoi choisir Obsidian ?"
 date: 2024-06-03T08:00:00+02:00
 draft: false
+tags: ["Obsidian"]
 ---
 
 <a target="_blank" href="https://obsidian.md/"> **Obsidian**</a> est une application de <a target="_blank" href="https://fr.wikipedia.org/wiki/Gestion_des_connaissances_personnelles"> gestion des connaissances personnelles </a> (PKM : Personal Knowledge Management). Il existe de nombreuses applications de ce type : <a target="_blank" href="https://www.onenote.com/"> OneNote</a>, <a target="_blank" href="https://evernote.com/fr-fr"> Evernote</a>, <a target="_blank" href="https://www.notion.so/fr-fr"> Notion</a>...

@@ -2,6 +2,7 @@
 title: "Obsidian - Synchronisation via Dropbox"
 date: 2024-06-06T08:00:00+02:00
 draft: false
+tags: ["Obsidian"]
 ---
 Je possède deux ordinateurs sous Windows, un professionnel et un personnel. Je possède également un téléphone sous Android.
 

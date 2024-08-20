@@ -2,6 +2,7 @@
 title: "Obsidian - Markdown : la mise en forme"
 date: 2024-06-07T08:00:00+02:00
 draft: false
+tags: ["Obsidian"]
 ---
 Grâce à l’[article précédent](/posts/obsidian-synchronisation-via-dropbox), nous avons maintenant un coffre **Formation** synchronisé sur deux ordinateurs Windows et un téléphone.
 

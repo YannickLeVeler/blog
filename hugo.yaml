@@ -42,14 +42,18 @@ menu:
       name: Archives
       url: archives
       weight: 10
+    - identifier: tags
+      name: Tags
+      url: tags
+      weight: 20
     - identifier: search
       name: Recherche
       url: search
-      weight: 20
+      weight: 30
     - identifier: notes
       name: Notes
       url: "https://notes.yannickleveler.com"
-      weight: 30
+      weight: 40
 
 markup:
   goldmark:

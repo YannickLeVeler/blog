@@ -2,6 +2,7 @@
 title: "Obsidian - Module Templater"
 date: 2024-06-13T10:56:53+02:00
 draft: false
+tags: ["Obsidian"]
 ---
 Dans l’[article précédent](/posts/obsidian-module-periodic-notes), nous avons installé le module complémentaire [Periodic Notes](/posts/obsidian-module-periodic-notes) et nous l'avons configuré.
 
