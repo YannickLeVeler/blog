@@ -1,7 +1,7 @@
 ---
 title: "Obsidian - Module Dataview"
 date: 2024-06-15T08:00:00+02:00
-draft: true
+draft: false
 tags: ["Obsidian"]
 ---
 Dans l’[article précédent](/posts/obsidian-daily-note-template), nous avons commencé le template de notre Daily Note. Cela nous a permis de présenter le concept de méta-donnée avec les Propriétés.
