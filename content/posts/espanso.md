@@ -1,6 +1,6 @@
 ---
 title: "Espanso"
-date: 2024-02-22T08:00:00+02:00
+date: 2025-02-22T08:00:00+02:00
 draft: false
 tags: ["Espanso"]
 ---
