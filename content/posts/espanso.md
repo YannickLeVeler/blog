@@ -3,6 +3,7 @@ title: "Espanso"
 date: 2025-02-22T08:00:00+02:00
 draft: false
 tags: ["Espanso"]
+description: "Espanso est un text expander gratuit et open-source. Découvrez comment l'installer et le configurer pour gagner du temps au quotidien."
 ---
 
 <a target="_blank" href="https://espanso.org/">Espanso</a> de <a target="_blank" href="https://federicoterzi.com/">Frederico Terzi</a> est un Text Expander, c'est à dire, un outil qui va vous permettre de configurer des raccourcis clavier afin d'insérer rapidement des phrases, des mots ou des blocs de texte.

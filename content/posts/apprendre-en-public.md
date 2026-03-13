@@ -2,6 +2,7 @@
 title: "Apprendre en public"
 date: 2024-06-01T08:00:00+02:00
 draft: false
+description: "Découvrez pourquoi j'ai créé ce blog suite à la lecture d'Austin Kleon et comment la démarche 'apprendre en public' permet d'enrichir ses réflexions grâce aux échanges avec la communauté."
 ---
 La création de ce blog fait suite à la lecture du livre <a target="_blank" href="https://amzn.to/4bIT5nm">Austin Kleon - Montrez votre travail !</a>.
 

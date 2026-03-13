@@ -3,6 +3,7 @@ title: "Obsidian - Ma Premiere Note"
 date: 2024-06-05T08:00:00+02:00
 draft: false
 tags: ["Obsidian"]
+description: "Créez et organisez votre première note dans Obsidian : renommer, formater et naviguer dans votre coffre-fort numérique."
 ---
 Dans notre [dernier article](/posts/obsidian-comment-ca-marche), nous avons créer notre premier **coffre** **Formation** dans 
 _C:\Obsidian_.

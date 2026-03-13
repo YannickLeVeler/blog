@@ -3,6 +3,7 @@ title: "Obsidian - Synchronisation via Dropbox"
 date: 2024-06-06T08:00:00+02:00
 draft: false
 tags: ["Obsidian"]
+description: "Synchronisez votre coffre Obsidian sur plusieurs appareils gratuitement avec Dropbox : guide d'installation et de configuration pas à pas."
 ---
 Je possède deux ordinateurs sous Windows, un professionnel et un personnel. Je possède également un téléphone sous Android.
 

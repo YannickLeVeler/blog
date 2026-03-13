@@ -3,6 +3,7 @@ title: "Obsidian - Module Calendar"
 date: 2024-06-11T08:00:00+02:00
 draft: false
 tags: ["Obsidian"]
+description: "Installez et configurez le module Calendar dans Obsidian pour naviguer dans vos notes par date et créer des notes quotidiennes."
 ---
 Lorsque je cherche mes notes dans <a target="_blank" href="https://obsidian.md/"> **Obsidian**</a>, j'utilise trois axes : 
 - la date,

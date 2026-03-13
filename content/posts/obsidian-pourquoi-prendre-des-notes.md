@@ -3,6 +3,7 @@ title: "Obsidian - Pourquoi prendre des notes ? "
 date: 2024-06-02T08:00:00+02:00
 draft: false
 tags: ["Obsidian"]
+description: "Comprenez l'importance de la prise de notes pour retenir l'information, structurer votre pensée et progresser dans votre vie professionnelle."
 ---
 Cela fait sept ans que je suis enseignant à <a target="_blank" href="https://www.univ-lille.fr/">l'Université de Lille</a> et chaque année, j'essaye d'apprendre à mes étudiants l'importance de la prise de notes, si possible sur un outil prévu pour ça.
 

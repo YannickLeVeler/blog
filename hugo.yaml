@@ -1,5 +1,6 @@
-baseURL: "http://yannickleveler.com/"
+baseURL: "https://yannickleveler.com/"
 languageCode: fr
+defaultContentLanguage: fr
 title: Yannick Le Véler
 theme: PaperMod
 
@@ -9,6 +10,7 @@ params:
   author: Yannick Le Véler
   env: production
   defaultTheme: dark
+  description: "Blog de Yannick Le Véler, Manager Data Analytics et enseignant. Découvrez mes notes sur la Data, les nouvelles technologies, la productivité et Obsidian."
   ShowPostNavLinks: true
   googleAnalyticsID: "G-8YS6GWNSJK"
 
