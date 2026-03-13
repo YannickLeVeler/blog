@@ -3,19 +3,23 @@ title: "Obsidian - Markdown : la mise en forme"
 date: 2024-06-07T08:00:00+02:00
 draft: false
 tags: ["Obsidian"]
+categories: ["Obsidian"]
 description: "Apprenez les balises Markdown essentielles pour formater vos notes dans Obsidian : titres, gras, italique, listes et tableaux."
+cover:
+  image: "/images/Pasted_image_20230722203923.jpg"
+  alt: "Markdown - Mise en forme des titres dans Obsidian"
 ---
 Grâce à l’[article précédent](/posts/obsidian-synchronisation-via-dropbox), nous avons maintenant un coffre **Formation** synchronisé sur deux ordinateurs Windows et un téléphone.
 
 Pour l’instant ce coffre contient un dossier **Notre premier dossier** et une note, **Notre première note.**
 
-Comme précisé dans un précédent article, le format des notes dans <a target="_blank" href="https://obsidian.md/"> **Obsidian**</a> est le <a target="_blank" href="https://fr.wikipedia.org/wiki/Markdown"> **Markdown**</a>.
+Comme précisé dans un précédent article, le format des notes dans <a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"> **Obsidian**</a> est le <a target="_blank" rel="noopener noreferrer" href="https://fr.wikipedia.org/wiki/Markdown"> **Markdown**</a>.
 
 Je vous propose dans cet article de découvrir les principales basiles pour formater vos notes. Je mets de coté pour un prochain article toutes les balises qui permettent de faire des liens.
 
 ## Format Markdown
 
-Je vous propose de vous montrer le format brut à gauche avec les balises à gauche et à droite le rendu dans <a target="_blank" href="https://obsidian.md/"> **Obsidian**</a>.
+Je vous propose de vous montrer le format brut à gauche avec les balises à gauche et à droite le rendu dans <a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"> **Obsidian**</a>.
 
 ## Titres
 
@@ -171,4 +175,4 @@ Ce que vous devez écrire en mode Edition :
 Ce que vous obtiendrez en mode Visualisation : 
 ![Citation - Visualisation](/images/Pasted_image_20230722204145.jpg#center)
 
-Dans notre [prochain post](/posts/obsidian-markdown-deuxieme-partie), nous verrons les différents liens possibles en <a target="_blank" href="https://fr.wikipedia.org/wiki/Markdown"> **Markdown**</a>.
+Dans notre [prochain post](/posts/obsidian-markdown-deuxieme-partie), nous verrons les différents liens possibles en <a target="_blank" rel="noopener noreferrer" href="https://fr.wikipedia.org/wiki/Markdown"> **Markdown**</a>.

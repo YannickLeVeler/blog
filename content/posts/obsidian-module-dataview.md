@@ -3,16 +3,20 @@ title: "Obsidian - Module Dataview"
 date: 2024-06-15T08:00:00+02:00
 draft: false
 tags: ["Obsidian"]
+categories: ["Obsidian"]
 description: "Découvrez le module Dataview pour Obsidian : faites des requêtes sur votre coffre-fort en utilisant les méta-données et les tags."
+cover:
+  image: "/images/Pasted_image_20240826131103.jpg"
+  alt: "Module Dataview dans Obsidian"
 ---
 Dans l’[article précédent](/posts/obsidian-daily-note-template), nous avons commencé le template de notre Daily Note. Cela nous a permis de présenter le concept de méta-donnée avec les Propriétés.
 
-Avant d'aller plus loin sur ce template, nous allons installé le module <a target="_blank" href="https://github.com/blacksmithgu/obsidian-dataview"> **Dataview**</a> de **Michael Brenan** et présenter son fonctionnement.
+Avant d'aller plus loin sur ce template, nous allons installé le module <a target="_blank" rel="noopener noreferrer" href="https://github.com/blacksmithgu/obsidian-dataview"> **Dataview**</a> de **Michael Brenan** et présenter son fonctionnement.
 
 
 ## Qu'est ce que le module Dataview ?
 
-<a target="_blank" href="https://github.com/blacksmithgu/obsidian-dataview"> **Dataview**</a> est un module communautaire pour **Obsidian** qui vous permet de faire des requêtes sur votre coffre-fort en vous basant sur les méta-données et les tags contenus dans vos notes.
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/blacksmithgu/obsidian-dataview"> **Dataview**</a> est un module communautaire pour **Obsidian** qui vous permet de faire des requêtes sur votre coffre-fort en vous basant sur les méta-données et les tags contenus dans vos notes.
 
 ## Installation et configuration
 
@@ -23,7 +27,7 @@ Nous allons donc installé le module et, pour le moment, nous n'allons pas chang
 
 ## Utilisation
 
-Pour écrire une requête dataview, nous allons écrire un bloc de codes en démarrant par trois accents grave suivis du mot clé <a target="_blank" href="https://github.com/blacksmithgu/obsidian-dataview"> **Dataview**</a>.
+Pour écrire une requête dataview, nous allons écrire un bloc de codes en démarrant par trois accents grave suivis du mot clé <a target="_blank" rel="noopener noreferrer" href="https://github.com/blacksmithgu/obsidian-dataview"> **Dataview**</a>.
 
 Ensuite, nous écrirons notre requête puis nous terminerons notre bloc de codes par trois accents graves.
 
@@ -39,18 +43,18 @@ Résultat :
 
 ## Structure de la requête
 
-Pour ceux qui sont familiers avec le SQL (Structured Query Language), <a target="_blank" href="https://github.com/blacksmithgu/obsidian-dataview"> **Dataview**</a> propose des similitudes.
+Pour ceux qui sont familiers avec le SQL (Structured Query Language), <a target="_blank" rel="noopener noreferrer" href="https://github.com/blacksmithgu/obsidian-dataview"> **Dataview**</a> propose des similitudes.
 
 Pour écrire une requête, vous devrez définir : 
 - le format de sortie (l'équivalent du SELECT en SQL)
 - la source (l'équivalent du FROM en SQL)
 - les conditions d'affichage (l'équivalent du WHERE, SORT, GROUP BY, LIMIT...)
 
-Avant d'aborder en détail chaque étape, je vais vous présenter les méta-datas implicites que l'on peut utiliser dans <a target="_blank" href="https://github.com/blacksmithgu/obsidian-dataview"> **Dataview**</a>. Ces éléments nous seront utiles pour le format de sortie et les conditions d'affichage.
+Avant d'aborder en détail chaque étape, je vais vous présenter les méta-datas implicites que l'on peut utiliser dans <a target="_blank" rel="noopener noreferrer" href="https://github.com/blacksmithgu/obsidian-dataview"> **Dataview**</a>. Ces éléments nous seront utiles pour le format de sortie et les conditions d'affichage.
 
 ### Champs implicites
 
-<a target="_blank" href="https://github.com/blacksmithgu/obsidian-dataview"> **Dataview**</a> ajoute automatiquement une grande quantité de métadonnées à chaque page. Ces champs implicites sont accessibles via le mot clé : **file**.
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/blacksmithgu/obsidian-dataview"> **Dataview**</a> ajoute automatiquement une grande quantité de métadonnées à chaque page. Ces champs implicites sont accessibles via le mot clé : **file**.
 
 | Champs | Type | Description |
 |---|---|---|

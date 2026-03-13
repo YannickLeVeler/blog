@@ -3,12 +3,16 @@ title: "Obsidian - Markdown : les liens externes et internes"
 date: 2024-06-08T08:00:00+02:00
 draft: false
 tags: ["Obsidian"]
+categories: ["Obsidian"]
 description: "Maîtrisez les liens externes et internes en Markdown dans Obsidian pour connecter vos notes et ressources web."
+cover:
+  image: "/images/Pasted_image_20230722204313.jpg"
+  alt: "Markdown - Liens externes dans Obsidian"
 ---
 
-Dans l’[article précédent](/posts/obsidian-markdown-premiere-partie), nous avons commencé à découvrir le <a target="_blank" href="https://fr.wikipedia.org/wiki/Markdown"> **Markdown**</a> avec le formatage des notes dans <a target="_blank" href="https://obsidian.md/"> **Obsidian**</a>.
+Dans l’[article précédent](/posts/obsidian-markdown-premiere-partie), nous avons commencé à découvrir le <a target="_blank" rel="noopener noreferrer" href="https://fr.wikipedia.org/wiki/Markdown"> **Markdown**</a> avec le formatage des notes dans <a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"> **Obsidian**</a>.
 
-Dans cet article, nous allons regarder comment réaliser des liens externes et internes en <a target="_blank" href="https://fr.wikipedia.org/wiki/Markdown"> **Markdown**</a>.
+Dans cet article, nous allons regarder comment réaliser des liens externes et internes en <a target="_blank" rel="noopener noreferrer" href="https://fr.wikipedia.org/wiki/Markdown"> **Markdown**</a>.
 
 ## Liens externes
 

@@ -3,11 +3,15 @@ title: "Obsidian - Module Templater"
 date: 2024-06-13T10:56:53+02:00
 draft: false
 tags: ["Obsidian"]
+categories: ["Obsidian"]
 description: "Installez le module Templater dans Obsidian pour créer des modèles de notes dynamiques avec insertion automatique de dates et de contenu."
+cover:
+  image: "/images/Pasted_image_20240616110148.jpg"
+  alt: "Module Templater dans Obsidian"
 ---
 Dans l’[article précédent](/posts/obsidian-module-periodic-notes), nous avons installé le module complémentaire [Periodic Notes](/posts/obsidian-module-periodic-notes) et nous l'avons configuré.
 
-Nous allons maintenant installé le module <a target="_blank" href="https://github.com/SilentVoid13/Templater"> **Templater**</a> de **SilentVoid** et dans les prochains posts nous paramétrons les différents modèles de notes (daily, weekly, monthly...).
+Nous allons maintenant installé le module <a target="_blank" rel="noopener noreferrer" href="https://github.com/SilentVoid13/Templater"> **Templater**</a> de **SilentVoid** et dans les prochains posts nous paramétrons les différents modèles de notes (daily, weekly, monthly...).
 
 ## Qu'est ce que le module Templater
 Templater est un module communautaire pour **Obsidian** qui vous permet de créer des modèles personnalisés pour vos notes. 
@@ -41,7 +45,7 @@ Templater va interpréter des commandes qui débutent par ```<%``` et qui se ter
 
 Par exemple pour obtenir la date du jour, nous allons utiliser la fonction ```tp.date.now()``` en écrivant dans notre modèle de note la commande : ```<% tp.date.now() %>```.
 
-Quand nous créerons une note à partir de ce modèle, <a target="_blank" href="https://github.com/SilentVoid13/Templater"> **Templater**</a> remplacera cette commande par la date du jour.
+Quand nous créerons une note à partir de ce modèle, <a target="_blank" rel="noopener noreferrer" href="https://github.com/SilentVoid13/Templater"> **Templater**</a> remplacera cette commande par la date du jour.
 
 Il existe deux types de fonction :
 - Les fonctions internes, qui sont natives au module Templater
@@ -53,14 +57,14 @@ Pour le moment, nous ne nous interesserons qu'aux fonctions internes.
 ## Fonctions internes
 
 Les fonctions sont réparties au sein de différents modules :
-- <a target="_blank" href="https://silentvoid13.github.io/Templater/internal-functions/internal-modules/config-module.html"> **Config module**</a>
-- <a target="_blank" href="https://silentvoid13.github.io/Templater/internal-functions/internal-modules/date-module.html"> **Date module**</a>
-- <a target="_blank" href="https://silentvoid13.github.io/Templater/internal-functions/internal-modules/file-module.html"> **File module**</a>
-- <a target="_blank" href="https://silentvoid13.github.io/Templater/internal-functions/internal-modules/frontmatter-module.html"> **Frontmatter module**</a>
-- <a target="_blank" href="https://silentvoid13.github.io/Templater/internal-functions/internal-modules/hooks-module.html"> **Hooks module**</a>
-- <a target="_blank" href="https://silentvoid13.github.io/Templater/internal-functions/internal-modules/obsidian-module.html"> **Obsidian module**</a>
-- <a target="_blank" href="https://silentvoid13.github.io/Templater/internal-functions/internal-modules/system-module.html"> **System module**</a>
-- <a target="_blank" href="https://silentvoid13.github.io/Templater/internal-functions/internal-modules/web-module.html"> **Web module**</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://silentvoid13.github.io/Templater/internal-functions/internal-modules/config-module.html"> **Config module**</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://silentvoid13.github.io/Templater/internal-functions/internal-modules/date-module.html"> **Date module**</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://silentvoid13.github.io/Templater/internal-functions/internal-modules/file-module.html"> **File module**</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://silentvoid13.github.io/Templater/internal-functions/internal-modules/frontmatter-module.html"> **Frontmatter module**</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://silentvoid13.github.io/Templater/internal-functions/internal-modules/hooks-module.html"> **Hooks module**</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://silentvoid13.github.io/Templater/internal-functions/internal-modules/obsidian-module.html"> **Obsidian module**</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://silentvoid13.github.io/Templater/internal-functions/internal-modules/system-module.html"> **System module**</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://silentvoid13.github.io/Templater/internal-functions/internal-modules/web-module.html"> **Web module**</a>
 
 Celui que nous utiliserons le plus et le module de gestion des dates.
 

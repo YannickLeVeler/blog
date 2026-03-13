@@ -3,7 +3,11 @@ title: "Obsidian - Module Periodic Notes"
 date: 2024-06-12T08:00:00+02:00
 draft: false
 tags: ["Obsidian"]
+categories: ["Obsidian"]
 description: "Configurez le module Periodic Notes dans Obsidian pour créer automatiquement vos notes quotidiennes, hebdomadaires et mensuelles."
+cover:
+  image: "/images/Pasted_image_20240615083307.jpg"
+  alt: "Module Periodic Notes dans Obsidian"
 ---
 Dans l’[article précédent](/posts/obsidian-module-calendar), nous avons installé le module complémentaire Calendar mais pour l'instant nous ne l'avons pas utilisé.
 

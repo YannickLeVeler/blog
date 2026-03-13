@@ -3,9 +3,13 @@ title: "Obsidian- Gestion des pièces jointes"
 date: 2024-06-10T08:00:00+02:00
 draft: false
 tags: ["Obsidian"]
+categories: ["Obsidian"]
 description: "Gérez efficacement vos pièces jointes dans Obsidian : screenshots, images et fichiers organisés dans un dossier dédié."
+cover:
+  image: "/images/Pasted_image_20240610214225.jpg"
+  alt: "Gestion des pièces jointes dans Obsidian"
 ---
-Dans le [dernier article](/posts/obsidian-la-methode-PARA), je vous ai montré l'organisation de mon coffre-fort dans <a target="_blank" href="https://obsidian.md/"> **Obsidian**</a> :
+Dans le [dernier article](/posts/obsidian-la-methode-PARA), je vous ai montré l'organisation de mon coffre-fort dans <a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"> **Obsidian**</a> :
 
 ![Coffre-fort](/images/Pasted_image_20240531130253.jpg#center)
 Je vais maintenant vous montrer comment je gère mes pièces jointes.
@@ -16,9 +20,9 @@ Pour ce faire, j'ai créé un dossier **01_ATTACHMENTS** dans le dossier **00_IN
 
 ![Attachments](/images/Pasted_image_20240610214225.jpg#center)
 
-Ensuite, j'ai paramétré <a target="_blank" href="https://obsidian.md/"> **Obsidian**</a> afin que les pièces jointes soient stockées dans le dossier créé.
+Ensuite, j'ai paramétré <a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"> **Obsidian**</a> afin que les pièces jointes soient stockées dans le dossier créé.
 
-En bas à gauche d'<a target="_blank" href="https://obsidian.md/"> **Obsidian**</a>, cliquez sur les **Paramètres** :
+En bas à gauche d'<a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"> **Obsidian**</a>, cliquez sur les **Paramètres** :
 
 ![Paramètres](/images/Pasted_image_20240610214735.jpg#center)
 
