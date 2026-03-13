@@ -6,7 +6,7 @@ tags: ["Obsidian"]
 categories: ["Obsidian"]
 description: "Premiers pas avec Obsidian : comment télécharger l'application, créer votre premier coffre et commencer à prendre des notes."
 cover:
-  image: "/images/Pasted_image_20230722202825.jpg"
+  image: "images/Pasted_image_20230722202825.jpg"
   alt: "Créer un nouveau coffre dans Obsidian"
 ---
 Si vous voulez commencer à travailler sur <a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"> **Obsidian**</a> , la première étape consiste à télécharger l'application avec le lien suivant : [_https://obsidian.md/download_](https://obsidian.md/download)
@@ -15,13 +15,13 @@ Pas d'inquiétude, <a target="_blank" rel="noopener noreferrer" href="https://ob
 
 ## Créez votre premier coffre
 La première fois que vous lancez <a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"> **Obsidian**</a> , vous allez devoir créer un nouveau **coffre** (**vault** en anglais) :
-![Créer un nouveau coffre](/images/Pasted_image_20230722202825.jpg)
+{{< img src="/images/Pasted_image_20230722202825.jpg" alt="Créer un nouveau coffre" >}}
 
 Lorsque vous créez votre **coffre**, vous devez indiquer son nom et le dossier local que vous souhaitez utiliser.
 
 Dans notre exemple, le coffre s'appelle **Formation** et je vais l'enregistrer dans le répertoire _C:\Obsidian_.
 
-![Configurer le coffre](/images/Pasted_image_20230722202931.jpg)
+{{< img src="/images/Pasted_image_20230722202931.jpg" alt="Configurer le coffre" >}}
 
 Une fois le **coffre** créé, <a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"> **Obsidian**</a>  s'ouvre, vous permettant de créer votre première note.
 

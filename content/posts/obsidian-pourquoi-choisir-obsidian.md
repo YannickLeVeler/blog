@@ -6,7 +6,7 @@ tags: ["Obsidian"]
 categories: ["Obsidian"]
 description: "Pourquoi choisir Obsidian plutôt que OneNote, Evernote ou Notion ? Découvrez les avantages uniques de cet outil de gestion de connaissances personnelles."
 cover:
-  image: "/images/Pasted_image_20230722202435.jpg"
+  image: "images/Pasted_image_20230722202435.jpg"
   alt: "Dossiers, liens et balises dans Obsidian"
 ---
 
@@ -23,7 +23,7 @@ Le premier avantage qui m'a fait choisir <a target="_blank" rel="noopener norefe
 
 Tout cet arsenal s'adapte facilement à votre méthode d'organisation ([PARA](https://fortelabs.com/blog/para/), [Zettelkasten](https://zettelkasten.de/posts/overview/), [Johnny Decimal](https://johnnydecimal.com/), [Dewey Decimal](https://fr.wikipedia.org/wiki/Classification_d%C3%A9cimale_de_Dewey)...)
 
-![Dossiers, liens et balieses](/images/Pasted_image_20230722202435.jpg)
+{{< img src="/images/Pasted_image_20230722202435.jpg" alt="Dossiers, liens et balieses" >}}
 *Source : https://www.reddit.com/r/ObsidianMD/comments/vofakc/dossiers_liens_et_balises/fr/*
 
 ## Non propriétaire
@@ -35,7 +35,7 @@ Cela ne vous empêche en aucun cas de synchroniser vos notes sur plusieurs poste
 
 De même, pas de format propriétaire concernant les notes, de simple fichiers textes au format <a target="_blank" rel="noopener noreferrer" href="https://fr.wikipedia.org/wiki/Markdown"> **Markdown**</a>.
 
-![Obsidian](/images/Pasted_image_20230722202525.jpg)
+{{< img src="/images/Pasted_image_20230722202525.jpg" alt="Obsidian" >}}
 *Source : https://obsidian.md/*
 ## Extensible
 Le troisième avantage, c'est le nombre de plugins proposés par <a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"> **Obsidian**</a> afin que vous puissiez l'adapter à vos besoins.
@@ -46,6 +46,6 @@ Ajouter un calendrier, gérer des tâches, travailler avec un tableau Kanban... 
 
 Via les prochains posts, nous allons explorer de nombreux plugins disponibles sur <a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"> **Obsidian**</a> afin de vous permettre de les exploiter à leur plein potentiel.
 
-![Plugins](/images/Pasted_image_20230722202614.jpg)
+{{< img src="/images/Pasted_image_20230722202614.jpg" alt="Plugins" >}}
 
 Maintenant que je vous ai convaincu d'utiliser <a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"> **Obsidian**</a>, je vous propose de nous pencher sur son utilisation dans les prochains posts.

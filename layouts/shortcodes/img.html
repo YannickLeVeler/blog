@@ -1,0 +1,42 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $class := .Get "class" | default "" -}}
+{{- $cleanSrc := strings.TrimPrefix "/" $src -}}
+{{- $img := resources.GetMatch (printf "*%s*" $cleanSrc) -}}
+{{- if $img -}}
+  {{- $processable := slice "jpg" "jpeg" "png" "tif" "bmp" "gif" -}}
+  {{- if hugo.IsExtended -}}{{- $processable = $processable | append "webp" -}}{{- end -}}
+  {{- if in $processable $img.MediaType.SubType -}}
+    {{- $sizes := slice 360 480 720 1080 -}}
+    <figure{{ if eq $class "center" }} style="text-align:center"{{ end }}>
+      <picture>
+        {{- if hugo.IsExtended -}}
+        <source type="image/webp" srcset="
+          {{- range $s := $sizes -}}
+            {{- if ge $img.Width $s -}}{{ ($img.Resize (printf "%dx webp" $s)).Permalink }} {{$s}}w, {{- end -}}
+          {{- end -}}
+          {{ ($img.Resize "1080x webp").Permalink }} {{$img.Width}}w
+        ">
+        {{- end -}}
+        <img
+          src="{{ $img.Permalink }}"
+          alt="{{ $alt }}"
+          loading="lazy"
+          width="{{ $img.Width }}"
+          height="{{ $img.Height }}"
+          srcset="
+            {{- range $s := $sizes -}}
+              {{- if ge $img.Width $s -}}{{ ($img.Resize (printf "%dx" $s)).Permalink }} {{$s}}w, {{- end -}}
+            {{- end -}}
+            {{ $img.Permalink }} {{$img.Width}}w
+          "
+          sizes="(min-width: 768px) 720px, 100vw"
+        >
+      </picture>
+    </figure>
+  {{- else -}}
+    <img src="{{ $img.Permalink }}" alt="{{ $alt }}" loading="lazy"{{ if $class }} class="{{ $class }}"{{ end }}>
+  {{- end -}}
+{{- else -}}
+  <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy"{{ if $class }} class="{{ $class }}"{{ end }}>
+{{- end -}}

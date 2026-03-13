@@ -6,7 +6,7 @@ tags: ["Obsidian"]
 categories: ["Obsidian"]
 description: "Installez et configurez le module Calendar dans Obsidian pour naviguer dans vos notes par date et créer des notes quotidiennes."
 cover:
-  image: "/images/Pasted_image_20240611203403.jpg"
+  image: "images/Pasted_image_20240611203403.jpg"
   alt: "Module Calendar dans Obsidian"
 ---
 Lorsque je cherche mes notes dans <a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"> **Obsidian**</a>, j'utilise trois axes : 
@@ -27,30 +27,30 @@ Pour ce faire nous allons utiliser plusieurs modules complémentaires :
 
 En bas à gauche de votre coffre-fort, cliquez sur les **Paramètres** :
 
-![Paramètres](/images/Pasted_image_20240610214735.jpg#center)
+{{< img src="/images/Pasted_image_20240610214735.jpg" alt="Paramètres" class="center" >}}
 
 Si vous n'avez jamais installé de modules complémentaires auparavant, vous devrez **Valider les modules complémentaires** : 
 
-![Activer les modules compélentaires](/images/Pasted_image_20240518205623.jpg#center)
+{{< img src="/images/Pasted_image_20240518205623.jpg" alt="Activer les modules compélentaires" class="center" >}}
 
 Nous allons ensuite **Parcourir** les modules disponibles afin de trouver le module **Calendar**.
 
-![Parcourir les modules compélentaires](/images/Pasted_image_20240611201529.jpg#center)
+{{< img src="/images/Pasted_image_20240611201529.jpg" alt="Parcourir les modules compélentaires" class="center" >}}
 
 Pour ce faire, nous allons nous appuer sur la **Recherche** et sélectionner le module **Calendar** proposé par Liam Cain : 
 
-![Rechercher le module Calendar](/images/Pasted_image_20240611201822.jpg#center)
+{{< img src="/images/Pasted_image_20240611201822.jpg" alt="Rechercher le module Calendar" class="center" >}}
 
 Cliquez sur le module **Calendar** pour le sélectionner puis cliquez sur **Installer** : 
 
-![Installer le module Calendar](/images/Pasted_image_20240611202628.jpg#center)
+{{< img src="/images/Pasted_image_20240611202628.jpg" alt="Installer le module Calendar" class="center" >}}
 
 Une fois le module installé, cliquez sur **Activer** : 
 
-![Activer le module Calendar](/images/Pasted_image_20240611202721.jpg#center)
+{{< img src="/images/Pasted_image_20240611202721.jpg" alt="Activer le module Calendar" class="center" >}}
 
 Une fois activé, le module **Calendar** apparait dans la panneau latéral droit : 
 
-![Module Calendar](/images/Pasted_image_20240611203403.jpg#center)
+{{< img src="/images/Pasted_image_20240611203403.jpg" alt="Module Calendar" class="center" >}}
 
 Avant de commencer à utiliser le module, nous allons voir dans les articles suivants comment installer et paramétrer les modules **Periodic Notes** et **Templater** 

@@ -6,7 +6,7 @@ tags: ["Obsidian"]
 categories: ["Obsidian"]
 description: "Comprenez l'importance de la prise de notes pour retenir l'information, structurer votre pensée et progresser dans votre vie professionnelle."
 cover:
-  image: "/images/Pasted_image_20240602184529.jpg"
+  image: "images/Pasted_image_20240602184529.jpg"
   alt: "David Allen - S'organiser pour réussir"
 ---
 Cela fait sept ans que je suis enseignant à <a target="_blank" rel="noopener noreferrer" href="https://www.univ-lille.fr/">l'Université de Lille</a> et chaque année, j'essaye d'apprendre à mes étudiants l'importance de la prise de notes, si possible sur un outil prévu pour ça.
@@ -63,6 +63,6 @@ Maintenant que vous avez bien compris l'utilité de la prise de notes, nous allo
 
 
 # Conseil de lecture
-![david Allen - S'organiser pour réussir](/images/Pasted_image_20240602184529.jpg)
+{{< img src="/images/Pasted_image_20240602184529.jpg" alt="david Allen - S'organiser pour réussir" >}}
 <center><a target="_blank" rel="noopener noreferrer" href="https://amzn.to/4bKmoWQ">David Allen - S'organiser pour réussir : La méthode GTD ou l'art de l'efficacité sans stress !</a></center>
 

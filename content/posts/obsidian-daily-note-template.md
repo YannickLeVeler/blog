@@ -6,7 +6,7 @@ tags: ["Obsidian"]
 categories: ["Obsidian"]
 description: "Créez votre modèle de note quotidienne dans Obsidian avec le module Templater pour structurer vos journées efficacement."
 cover:
-  image: "/images/Pasted_image_20240820202624.jpg"
+  image: "images/Pasted_image_20240820202624.jpg"
   alt: "Daily Note Template - Propriétés dans Obsidian"
 ---
 ## Daily
@@ -69,7 +69,7 @@ Nous verrons dans un prochain article l'utilisation du module <a target="_blank"
 
 Voici une vue d'ensemble de ces propriétés dans Obsidian : 
 
-![Propriétés](/images/Pasted_image_20240820202624.jpg#center)
+{{< img src="/images/Pasted_image_20240820202624.jpg" alt="Propriétés" class="center" >}}
 
 
 ### Contenu de la note
@@ -87,7 +87,7 @@ Le code qui se base sur le module Templater est le suivant :
 
 Si je souhaite accéder à ma note weekly, monthly, quaterly ou yearly, je peux y accéder via les propriétés de la note.
 
-![Navigation](/images/Pasted_image_20240820202924.jpg#center)
+{{< img src="/images/Pasted_image_20240820202924.jpg" alt="Navigation" class="center" >}}
 
 #### Citation
 
@@ -101,7 +101,7 @@ Pour cela, nous allons écrire un titre "Daily Quote" et juste en dessous nous a
 
 Ce qui nous donne dans Obsidian le résultat suivant : 
 
-![Citation](/images/Pasted_image_20240820202942.jpg#center)
+{{< img src="/images/Pasted_image_20240820202942.jpg" alt="Citation" class="center" >}}
 
 
 Dans le prochain article je vous présenterai le module <a target="_blank" rel="noopener noreferrer" href="https://blacksmithgu.github.io/obsidian-dataview/"> **Dataview**</a> dont nous auront besoin pour finaliser notre **Daily Note Template**.

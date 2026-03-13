@@ -6,7 +6,7 @@ tags: ["Obsidian"]
 categories: ["Obsidian"]
 description: "Découvrez comment organiser votre coffre Obsidian avec la méthode PARA de Tiago Forte : Projects, Areas, Resources, Archives."
 cover:
-  image: "/images/Pasted_image_20230917180552.jpg"
+  image: "images/Pasted_image_20230917180552.jpg"
   alt: "Tiago Forte - The PARA Method"
 ---
 Vous connaissez maintenant le minimum vital pour utiliser <a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"> **Obsidian**</a>.
@@ -73,7 +73,7 @@ Tiago Forte conseille également de numéroter vos dossiers de la manière suiva
 
 De mon coté, j'applique une convention de nommage légèrement différente mais le résultat reste le même : 
 
-![Coffre-fort](/images/Pasted_image_20240531130253.png#center)
+{{< img src="/images/Pasted_image_20240531130253.jpg" alt="Coffre-fort" class="center" >}}
 
 ## Miroir
 Comme le conseille <a target="_blank" rel="noopener noreferrer" href="https://fortelabs.com/"> **Tiago Forte**</a>, j'ai organisé mon Google Drive en miroir de cette organisation afin de faciliter le fait de retrouver les fichiers liés aux notes prises dans <a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"> **Obsidian**</a>.
@@ -85,8 +85,8 @@ Je vous montrerai dans un prochain article comment je m'organise au sein de ses 
 
 # Conseils de lecture
 
-![Tiago Forte - Construire un second cerveau](/images/Pasted_image_20240609203513.png#center)
+{{< img src="/images/Pasted_image_20240609203513.jpg" alt="Tiago Forte - Construire un second cerveau" class="center" >}}
 <center><a target="_blank" rel="noopener noreferrer" href="https://amzn.to/3XmWTGy">Tiago Forte - Construire un second cerveau : Une méthode complète pour organiser votre vie numérique et libérer votre potentiel créatif</a></center>
 
-![Tiago Forte - The PARA Method](/images/Pasted_image_20230917180552.jpg#center)
+{{< img src="/images/Pasted_image_20230917180552.jpg" alt="Tiago Forte - The PARA Method" class="center" >}}
 <center><a target="_blank" rel="noopener noreferrer" href="https://amzn.to/45evQ2n">Tiago Forte - The PARA Method : Simplify, Organise and Master Your Digital Life</a></center>

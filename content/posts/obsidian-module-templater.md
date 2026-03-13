@@ -6,7 +6,7 @@ tags: ["Obsidian"]
 categories: ["Obsidian"]
 description: "Installez le module Templater dans Obsidian pour créer des modèles de notes dynamiques avec insertion automatique de dates et de contenu."
 cover:
-  image: "/images/Pasted_image_20240616110148.jpg"
+  image: "images/Pasted_image_20240616110148.jpg"
   alt: "Module Templater dans Obsidian"
 ---
 Dans l’[article précédent](/posts/obsidian-module-periodic-notes), nous avons installé le module complémentaire [Periodic Notes](/posts/obsidian-module-periodic-notes) et nous l'avons configuré.
@@ -23,12 +23,12 @@ Templater facilite la standardisation de vos notes, la saisie rapide de données
 ## Installation et configuration
 
 Une fois le module complémentaire installé, nous allons mettre quelques paramètres à jour.
-![Module Calendar](/images/Pasted_image_20240616110148.jpg#center)
+{{< img src="/images/Pasted_image_20240616110148.jpg" alt="Module Calendar" class="center" >}}
 
 
 
 Tour d'abord l'endroit où se trouve nos templates : **Templater folder location :** 00_INBOX/00_TEMPLATES
-![Module Calendar](/images/Pasted_image_20240616110616.jpg#center)
+{{< img src="/images/Pasted_image_20240616110616.jpg" alt="Module Calendar" class="center" >}}
 
 
 Ensuite, nous allons modifier deux options :
@@ -36,7 +36,7 @@ Ensuite, nous allons modifier deux options :
 - La deuxième de cacher l'icone Templater dans le menu à gauche d'**Obisdian**.
 **Trigger Templater on new file creation :** true
 **Show icon in sidebar :** false
-![Module Calendar](/images/Pasted_image_20240616110656.jpg#center)
+{{< img src="/images/Pasted_image_20240616110656.jpg" alt="Module Calendar" class="center" >}}
 
 
 ## Utilisation 

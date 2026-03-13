@@ -6,7 +6,7 @@ tags: ["Obsidian"]
 categories: ["Obsidian"]
 description: "Découvrez le module Dataview pour Obsidian : faites des requêtes sur votre coffre-fort en utilisant les méta-données et les tags."
 cover:
-  image: "/images/Pasted_image_20240826131103.jpg"
+  image: "images/Pasted_image_20240826131103.jpg"
   alt: "Module Dataview dans Obsidian"
 ---
 Dans l’[article précédent](/posts/obsidian-daily-note-template), nous avons commencé le template de notre Daily Note. Cela nous a permis de présenter le concept de méta-donnée avec les Propriétés.
@@ -22,7 +22,7 @@ Avant d'aller plus loin sur ce template, nous allons installé le module <a targ
 
 Nous allons donc installé le module et, pour le moment, nous n'allons pas changer les paramètres.
 
-![Module Dataview](/images/Pasted_image_20240826131103.jpg#center)
+{{< img src="/images/Pasted_image_20240826131103.jpg" alt="Module Dataview" class="center" >}}
 
 
 ## Utilisation
@@ -34,11 +34,11 @@ Ensuite, nous écrirons notre requête puis nous terminerons notre bloc de codes
 Si vous possédez peu de notes dans votre coffre-fort, vous pouvez écrire ce premier exemple qui va afficher sous forme de liste les liens vers toutes les notes que vous possédez.
 
 Exemple : 
-![Exemple Dataview](/images/Pasted_image_20240830145311.jpg#center)
+{{< img src="/images/Pasted_image_20240830145311.jpg" alt="Exemple Dataview" class="center" >}}
 
 
 Résultat : 
-![Résultat Dataview](/images/Pasted_image_20240830145341.jpg#center)
+{{< img src="/images/Pasted_image_20240830145341.jpg" alt="Résultat Dataview" class="center" >}}
 
 
 ## Structure de la requête
@@ -96,11 +96,11 @@ Vous pouvez renommer chaque colonne de votre tableau en utilisant le mot clé `a
 Par exemple, `file.folder as dossier` va renommer la colonne *file.folder* de votre tableau en *dossier* et afficher pour chaque note le champs implicite *file.folder*.
 
 Exemple : 
-![Exemple Dataview](/images/Pasted_image_20240830213820.jpg#center)
+{{< img src="/images/Pasted_image_20240830213820.jpg" alt="Exemple Dataview" class="center" >}}
 
 
 Résultat : 
-![Résultat Dataview](/images/Pasted_image_20240830213833.jpg#center)
+{{< img src="/images/Pasted_image_20240830213833.jpg" alt="Résultat Dataview" class="center" >}}
 
 
 Dans cet exemple, on affiche donc une table contenant :
@@ -111,42 +111,42 @@ Dans cet exemple, on affiche donc une table contenant :
 Si vous ne souhaitez pas afficher le lien de la note, présente par défaut, vous pouvez utiliser les mots clés WITHOUT ID.
 
 Exemple : 
-![Exemple Dataview](/images/Pasted_image_20240902130042.jpg#center)
+{{< img src="/images/Pasted_image_20240902130042.jpg" alt="Exemple Dataview" class="center" >}}
 
 
 Résultat : 
-![Résultat Dataview](/images/Pasted_image_20240902130116.jpg#center)
+{{< img src="/images/Pasted_image_20240902130116.jpg" alt="Résultat Dataview" class="center" >}}
 
 
 #### LIST
 Le format de sortie sera une liste de liens vers vos notes.
 
 Exemple : 
-![Exemple Dataview](/images/Pasted_image_20240830145311.jpg#center)
+{{< img src="/images/Pasted_image_20240830145311.jpg" alt="Exemple Dataview" class="center" >}}
 
 
 Résultat : 
-![Résultat Dataview](/images/Pasted_image_20240830145341.jpg#center)
+{{< img src="/images/Pasted_image_20240830145341.jpg" alt="Résultat Dataview" class="center" >}}
 
 
 Si vous le souhaitez, vous pouvez ajouter une information (et une seule) à afficher.
 
 Exemple : 
-![Exemple Dataview](/images/Pasted_image_20240901202543.jpg#center)
+{{< img src="/images/Pasted_image_20240901202543.jpg" alt="Exemple Dataview" class="center" >}}
 
 
 Résultat : 
-![Résultat Dataview](/images/Pasted_image_20240901202612.jpg#center)
+{{< img src="/images/Pasted_image_20240901202612.jpg" alt="Résultat Dataview" class="center" >}}
 
 
 Et vous pouvez détourner cette contrainte, en affichant un champs calculé qui pourrait concaténer les champs dont vous avez besoin. 
 
 Exemple : 
-![Exemple Dataview](/images/Pasted_image_20240901203356.jpg#center)
+{{< img src="/images/Pasted_image_20240901203356.jpg" alt="Exemple Dataview" class="center" >}}
 
 
 Résultat : 
-![Résultat Dataview](/images/Pasted_image_20240901203415.jpg#center)
+{{< img src="/images/Pasted_image_20240901203415.jpg" alt="Résultat Dataview" class="center" >}}
 
 
 De la même manière que pour la TABLE, vous pouvez utiliser les mots clés WITHOUT ID afin de ne pas afficher les liens des notes.
@@ -156,19 +156,19 @@ De la même manière que pour la TABLE, vous pouvez utiliser les mots clés WITH
 Le format de sortie sera une liste interactive des tâches sélectionnées dans votre coffre-fort. En effet, vous pourrez mettre à jour les tâches affichées dans dataview, elles se mettront automatiquement à jour dans la note d'origine.
 
 Pour vous montrer son fonctionnement, je vais créer une note à la racine du coffre-fort et créer deux tâches à l'intérieur : 
-![Exemple Dataview](/images/Pasted_image_20240902130947.jpg#center)
+{{< img src="/images/Pasted_image_20240902130947.jpg" alt="Exemple Dataview" class="center" >}}
 
 
 Dans notre requête dataview, nous allons indiquer le mot clé TASK :
-![Exemple Dataview](/images/Pasted_image_20240902131050.jpg#center) 
+{{< img src="/images/Pasted_image_20240902131050.jpg" alt="Exemple Dataview" class="center" >}} 
 
 
 On obtient comme résultat les tâches présentes dans l'ensemble du coffre-fort, dans notre cas, les deux tâches contenues dans la note Exemple : 
-![Exemple Dataview](/images/Pasted_image_20240902131202.jpg#center) 
+{{< img src="/images/Pasted_image_20240902131202.jpg" alt="Exemple Dataview" class="center" >}} 
 
 
 Si on coche la tâche dans le résultat de la requête dataview, la tâche présente dans la note d'origine sera mise à jour automatiquement : 
-![Exemple Dataview](/images/Pasted_image_20240902131321.jpg#center) 
+{{< img src="/images/Pasted_image_20240902131321.jpg" alt="Exemple Dataview" class="center" >}} 
 
 
 Et, en bonus, lorsque vous cliquez sur l'intitulé de la tâche, vous arrivez automatiquement sur la tâche dans la note d'origine.
@@ -180,11 +180,11 @@ Le dernier format de sortie va vous permettre un affichage sous la format d'un c
 Par exemple, nous allons afficher sur un calendrier la date de création de chaque note.
 
 Exemple : 
-![Exemple Dataview](/images/Pasted_image_20240909213047.jpg#center)
+{{< img src="/images/Pasted_image_20240909213047.jpg" alt="Exemple Dataview" class="center" >}}
 
 
 Résultat : 
-![Exemple Dataview](/images/Pasted_image_20240909213104.jpg#center)
+{{< img src="/images/Pasted_image_20240909213104.jpg" alt="Exemple Dataview" class="center" >}}
 
 Et, évidemment, vous pouvez cliquer sur une date pour ouvrir la note concernée.
 

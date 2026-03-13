@@ -6,14 +6,14 @@ tags: ["Obsidian"]
 categories: ["Obsidian"]
 description: "Configurez le module Periodic Notes dans Obsidian pour créer automatiquement vos notes quotidiennes, hebdomadaires et mensuelles."
 cover:
-  image: "/images/Pasted_image_20240615083307.jpg"
+  image: "images/Pasted_image_20240615083307.jpg"
   alt: "Module Periodic Notes dans Obsidian"
 ---
 Dans l’[article précédent](/posts/obsidian-module-calendar), nous avons installé le module complémentaire Calendar mais pour l'instant nous ne l'avons pas utilisé.
 
 Pour que je puisse vous montrer mon utilisation quotidienne nous allons devoir installer d'autres modules complémentaires, et notamment le module **Periodic Notes** de Liam Cain (le créateur du [module Calendar](/posts/obsidian-module-calendar)).
 
-![Periodic Notes](/images/Pasted_image_20240615083307.jpg#center)
+{{< img src="/images/Pasted_image_20240615083307.jpg" alt="Periodic Notes" class="center" >}}
 
 Ce module va nous permettre de créer des notes quotidiennes, hebdomadaires, mensuelles, trimestrielles, annuelles.
 
@@ -24,12 +24,12 @@ Nous allons régulièrement utiliser des modèles de notes dans notre coffre-for
 ## Templates
 Je vous propose donc de créer un dossier 00_TEMPLATES dans notre dossier 00_INBOX afin d'y centraliser nos modèles de notes.
 
-![00_TEMPLATES](/images/Pasted_image_20240615083403.jpg#center)
+{{< img src="/images/Pasted_image_20240615083403.jpg" alt="00_TEMPLATES" class="center" >}}
 
 Dans ce dossier, nous allons créer une note pour chaque type de note dont nous allons avoir besoin. Pour l'instant nous allons laisser ces notes vides. 
 Nous les remplirons par la suite.
 
-![MODELES](/images/Pasted_image_20240616102454.jpg#center)
+{{< img src="/images/Pasted_image_20240616102454.jpg" alt="MODELES" class="center" >}}
 
 ## JOURNAL
 Ensuite, allons créer dans 00_INBOX un dossier 02_JOURNAL dans lequel nous allons créer un dossier pour chaque type de note que nous allons créer :
@@ -39,12 +39,12 @@ Ensuite, allons créer dans 00_INBOX un dossier 02_JOURNAL dans lequel nous allo
 - 04_QUARTERLY pour les notes trimestrielles
 - 05_YEARLY pour les notes annuelles 
 
-![02_JOURNAL](/images/Pasted_image_20240616101959.jpg#center)
+{{< img src="/images/Pasted_image_20240616101959.jpg" alt="02_JOURNAL" class="center" >}}
 
 Nous avons maintenant tout le nécessaire pour paramétrer le module Periodic Notes. 
 
 ## Daily Note
-![02_JOURNAL](/images/Pasted_image_20240616102801.jpg#center)
+{{< img src="/images/Pasted_image_20240616102801.jpg" alt="02_JOURNAL" class="center" >}}
 
 
 **Format :** YYYY-MM-DD
@@ -55,7 +55,7 @@ Nous avons maintenant tout le nécessaire pour paramétrer le module Periodic No
 
 
 ## Weekly Note
-![02_JOURNAL](/images/Pasted_image_20240616102959.jpg#center)
+{{< img src="/images/Pasted_image_20240616102959.jpg" alt="02_JOURNAL" class="center" >}}
 
 **Format :** YYYY-WW
 
@@ -65,7 +65,7 @@ Nous avons maintenant tout le nécessaire pour paramétrer le module Periodic No
 
 
 ## Monthly Note
-![02_JOURNAL](/images/Pasted_image_20240616103124.jpg#center)
+{{< img src="/images/Pasted_image_20240616103124.jpg" alt="02_JOURNAL" class="center" >}}
 
 **Format :** YYYY-MM
 
@@ -75,7 +75,7 @@ Nous avons maintenant tout le nécessaire pour paramétrer le module Periodic No
 
 
 ## Quaterly Note
-![02_JOURNAL](/images/Pasted_image_20240616103232.jpg#center)
+{{< img src="/images/Pasted_image_20240616103232.jpg" alt="02_JOURNAL" class="center" >}}
 
 **Format :** YYYY-0Q
 
@@ -85,7 +85,7 @@ Nous avons maintenant tout le nécessaire pour paramétrer le module Periodic No
 
 
 ## Yearly Note
-![02_JOURNAL](/images/Pasted_image_20240616103400.jpg#center)
+{{< img src="/images/Pasted_image_20240616103400.jpg" alt="02_JOURNAL" class="center" >}}
 
 **Format :** YYYY
 

@@ -6,7 +6,7 @@ tags: ["Obsidian"]
 categories: ["Obsidian"]
 description: "Synchronisez votre coffre Obsidian sur plusieurs appareils gratuitement avec Dropbox : guide d'installation et de configuration pas à pas."
 cover:
-  image: "/images/Pasted_image_20230722203707.jpg"
+  image: "images/Pasted_image_20230722203707.jpg"
   alt: "Synchronisation Obsidian via Dropbox"
 ---
 Je possède deux ordinateurs sous Windows, un professionnel et un personnel. Je possède également un téléphone sous Android.
@@ -19,7 +19,7 @@ Evidemment j’avais déjà entendu parler de ce service de stockage, j’avais 
 
 Dropbox vous propose une formule gratuite Dropbox Basic permettant de bénéficier de 2Go de stockage. Pour le moment, cet espace est largement suffisant pour mes notes, rappelez-vous que ce sont de simples fichiers plats. (Si vous utilisez beaucoup de pièces jointes, vous pourrez vite vous retrouvez limiter mais nous regarderons par la suite d’autres solutions pour synchroniser nos appareils).
 
-![Dropbox](/images/Pasted_image_20230722203707.jpg#center)
+{{< img src="/images/Pasted_image_20230722203707.jpg" alt="Dropbox" class="center" >}}
 
 ## Installation sur Windows
 
@@ -41,15 +41,15 @@ Ensuite, pour synchroniser votre répertoire <a target="_blank" rel="noopener no
 
 Dans l’application vous allez pouvoir choisir le dossier local qui se synchronisera avec votre <a target="_blank" rel="noopener noreferrer" href="https://www.dropbox.com/"> **Dropbox**</a>.
 
-![Non propriétaire](/images/Pasted_image_20230722203731.jpg#center)
+{{< img src="/images/Pasted_image_20230722203731.jpg" alt="Non propriétaire" class="center" >}}
 
 Puis indiquer le dossier de votre <a target="_blank" rel="noopener noreferrer" href="https://www.dropbox.com/"> **Dropbox**</a> que vous souhaitez synchroniser.
 
-![Non propriétaire](/images/Pasted_image_20230722203746.jpg#center)
+{{< img src="/images/Pasted_image_20230722203746.jpg" alt="Non propriétaire" class="center" >}}
 
 Ensuite vous pouvez choisir le mode de synchronisation, A double sens dans mon cas. Tout nouveau fichier crée sur un autre appareil sera récupéré et toute nouvelle note créée sur mon téléphone sera envoyée dans ma <a target="_blank" rel="noopener noreferrer" href="https://www.dropbox.com/"> **Dropbox**</a>.
 
-![Non propriétaire](/images/Pasted_image_20230722203758.jpg#center)
+{{< img src="/images/Pasted_image_20230722203758.jpg" alt="Non propriétaire" class="center" >}}
 
 Maintenant que le dossier local que vous avez sélectionné sur votre téléphone est synchronisé avec votre <a target="_blank" rel="noopener noreferrer" href="https://www.dropbox.com/"> **Dropbox**</a>, vous pouvez lancer <a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"> **Obsidian**</a> sur votre téléphone et indiquez que vous souhaitez ouvrir le répertoire synchronisé comme un coffre.
 

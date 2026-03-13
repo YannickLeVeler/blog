@@ -6,7 +6,7 @@ tags: ["Obsidian"]
 categories: ["Obsidian"]
 description: "Apprenez les balises Markdown essentielles pour formater vos notes dans Obsidian : titres, gras, italique, listes et tableaux."
 cover:
-  image: "/images/Pasted_image_20230722203923.jpg"
+  image: "images/Pasted_image_20230722203923.jpg"
   alt: "Markdown - Mise en forme des titres dans Obsidian"
 ---
 Grâce à l’[article précédent](/posts/obsidian-synchronisation-via-dropbox), nous avons maintenant un coffre **Formation** synchronisé sur deux ordinateurs Windows et un téléphone.
@@ -27,10 +27,10 @@ Six niveaux de titres sont disponibles. Pour chaque niveau, ajoutez un dièse.
 Attention à bien respecter l’espace entre le dernier dièse et le titre, sinon vous créez un tag.
 
 Ce que vous devez écrire en mode Edition : 
-![Titre - Visualisation](/images/Pasted_image_20230722203923.jpg#center)
+{{< img src="/images/Pasted_image_20230722203923.jpg" alt="Titre - Visualisation" class="center" >}}
 
 Ce que vous obtiendrez en mode Visualisation: 
-![Titre - Visualisation](/images/Pasted_image_20230722203938.jpg#center)
+{{< img src="/images/Pasted_image_20230722203938.jpg" alt="Titre - Visualisation" class="center" >}}
 
 ## Formatage du texte
 
@@ -60,10 +60,10 @@ Deux tildes ~~ avant et après un texte pour le barrer :
 ```
 
 Ce que vous devez écrire en mode Edition : 
-![Formatage - Edition](/images/Pasted_image_20230722203954.jpg#center)
+{{< img src="/images/Pasted_image_20230722203954.jpg" alt="Formatage - Edition" class="center" >}}
 
 Ce que vous obtiendrez en mode Visualisation : 
-![Formatage - Visualisation](/images/Pasted_image_20230722203958.jpg#center)
+{{< img src="/images/Pasted_image_20230722203958.jpg" alt="Formatage - Visualisation" class="center" >}}
 
 ## Listes
 
@@ -78,10 +78,10 @@ Pour la liste non numérotée, il suffit d’indiquer une étoile :
 ```
 
 Ce que vous devez écrire en mode Edition : 
-![Liste - Edition](/images/Pasted_image_20230722204008.jpg#center)
+{{< img src="/images/Pasted_image_20230722204008.jpg" alt="Liste - Edition" class="center" >}}
 
 Ce que vous obtiendrez en mode Visualisation : 
-![Liste - Visualisation](/images/Pasted_image_20230722204013.jpg#center)
+{{< img src="/images/Pasted_image_20230722204013.jpg" alt="Liste - Visualisation" class="center" >}}
 
 ## Tâches
 
@@ -101,10 +101,10 @@ Pour afficher une tâche réalisée sans la barrer, indiquez un tiret puis un cr
 ```
 
 Ce que vous devez écrire en mode Edition : 
-![Tâche - Edition](/images/Pasted_image_20230722204025.jpg#center)
+{{< img src="/images/Pasted_image_20230722204025.jpg" alt="Tâche - Edition" class="center" >}}
 
 Ce que vous obtiendrez en mode Visualisation : 
-![Tâche - Visualisation](/images/Pasted_image_20230722204029.jpg#center)
+{{< img src="/images/Pasted_image_20230722204029.jpg" alt="Tâche - Visualisation" class="center" >}}
 
 ## Tableau
 
@@ -124,10 +124,10 @@ Contenu 1 | Contenu B
 ```
 
 Ce que vous devez écrire en mode Edition : 
-![Tableau - Edition](/images/Pasted_image_20230722204039.jpg#center)
+{{< img src="/images/Pasted_image_20230722204039.jpg" alt="Tableau - Edition" class="center" >}}
 
 Ce que vous obtiendrez en mode Visualisation : 
-![Tableau - Visualisation](/images/Pasted_image_20230722204045.jpg#center)
+{{< img src="/images/Pasted_image_20230722204045.jpg" alt="Tableau - Visualisation" class="center" >}}
 
 ## Bloc de code
 
@@ -138,30 +138,30 @@ Pour connaitre les langages supportés, utilisez le site suivant : [https://pri
 Ecrivez votre code et terminez par trois accents graves.
 
 Ce que vous devez écrire en mode Edition : 
-![Bloc de code - Edition](/images/Pasted_image_20230722204056.jpg#center)
+{{< img src="/images/Pasted_image_20230722204056.jpg" alt="Bloc de code - Edition" class="center" >}}
 
 Ce que vous obtiendrez en mode Visualisation : 
-![Bloc de code - Visualisation](/images/Pasted_image_20230722204100.jpg#center)
+{{< img src="/images/Pasted_image_20230722204100.jpg" alt="Bloc de code - Visualisation" class="center" >}}
 
 ## Code en ligne
 
 Le texte présent entre accent grave dans un texte sera formaté comme du code.
 
 Ce que vous devez écrire en mode Edition : 
-![Code en ligne - Edition](/images/Pasted_image_20230722204109.jpg#center)
+{{< img src="/images/Pasted_image_20230722204109.jpg" alt="Code en ligne - Edition" class="center" >}}
 
 Ce que vous obtiendrez en mode Visualisation : 
-![Code en ligne - Visualisation](/images/Pasted_image_20230722204114.jpg#center)
+{{< img src="/images/Pasted_image_20230722204114.jpg" alt="Code en ligne - Visualisation" class="center" >}}
 
 ## Séparation horizontale
 
 Pour faire une séparation horizontale dans votre note, vous pouvez utiliser trois étoiles ***, trois tirets bas ___ ou trois tirets —
 
 Ce que vous devez écrire en mode Edition : 
-![Séparation horizontale - Edition](/images/Pasted_image_20230722204128.jpg#center)
+{{< img src="/images/Pasted_image_20230722204128.jpg" alt="Séparation horizontale - Edition" class="center" >}}
 
 Ce que vous obtiendrez en mode Visualisation : 
-![Séparation horizontale - Visualisation](/images/Pasted_image_20230722204132.jpg#center)
+{{< img src="/images/Pasted_image_20230722204132.jpg" alt="Séparation horizontale - Visualisation" class="center" >}}
 
 ## Citation
 
@@ -170,9 +170,9 @@ Commencez votre ligne avec un signe supérieur > pour pouvoir afficher un bloc d
 Pour indiquer l’auteur de la citation, allez à la ligne puis mettez un antislash et un tiret : \- YALE, 2023
 
 Ce que vous devez écrire en mode Edition : 
-![Citation - Edition](/images/Pasted_image_20230722204141.jpg#center)
+{{< img src="/images/Pasted_image_20230722204141.jpg" alt="Citation - Edition" class="center" >}}
 
 Ce que vous obtiendrez en mode Visualisation : 
-![Citation - Visualisation](/images/Pasted_image_20230722204145.jpg#center)
+{{< img src="/images/Pasted_image_20230722204145.jpg" alt="Citation - Visualisation" class="center" >}}
 
 Dans notre [prochain post](/posts/obsidian-markdown-deuxieme-partie), nous verrons les différents liens possibles en <a target="_blank" rel="noopener noreferrer" href="https://fr.wikipedia.org/wiki/Markdown"> **Markdown**</a>.

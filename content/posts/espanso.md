@@ -6,7 +6,7 @@ tags: ["Espanso"]
 categories: ["Productivité"]
 description: "Espanso est un text expander gratuit et open-source. Découvrez comment l'installer et le configurer pour gagner du temps au quotidien."
 cover:
-  image: "/images/Pasted_image_20250219095100.jpg"
+  image: "images/Pasted_image_20250219095100.jpg"
   alt: "Espanso - Interface d'installation"
 ---
 
@@ -24,15 +24,15 @@ Let's go !
 Télécharger l'application via leur <a target="_blank" rel="noopener noreferrer" href="https://espanso.org/install/">site internet</a> en fonction de votre OS et installez le.
 
 Une fois installée, l'icône d'<a target="_blank" rel="noopener noreferrer" href="https://espanso.org/">Espanso</a> apparaît en bas à droite de votre écran. 
-![Créer un nouveau coffre](/images/Pasted_image_20250219095100.jpg)
+{{< img src="/images/Pasted_image_20250219095100.jpg" alt="Créer un nouveau coffre" >}}
 
 Afin de configurer les raccourcis, nous avons de besoin de trouver où sont stockés les fichiers de configuration.
 
 Pour ce faire, lancez la commande ```espanso path``` via l'invite de commandes. 
-![Créer un nouveau coffre](/images/Pasted_image_20250219094530.jpg)
+{{< img src="/images/Pasted_image_20250219094530.jpg" alt="Créer un nouveau coffre" >}}
 
 Si nous suivons le premier chemin indiqué, nous allons trouver deux répertoires **config** et **match**.
-![Créer un nouveau coffre](/images/Pasted_image_20250219094725.jpg)
+{{< img src="/images/Pasted_image_20250219094725.jpg" alt="Créer un nouveau coffre" >}}
 
 
 
@@ -54,17 +54,17 @@ auto_restart: true
 
 <a target="_blank" rel="noopener noreferrer" href="https://espanso.org/">Espanso</a> fonctionne de la manière suivante, il va détecter quand vous tapez un mot-clé que vous avez défini (*trigger*) et va le remplacer par un bloc de texte que vous avez paramétré (*replacement*).
 
-![Créer un nouveau coffre](/images/Pasted_image_20250219095232.jpg)
+{{< img src="/images/Pasted_image_20250219095232.jpg" alt="Créer un nouveau coffre" >}}
 
 Cette association entre un *trigger* et un *replacement* est nommé un *match*.
 
-![Créer un nouveau coffre](/images/Pasted_image_20250219100248.jpg)
+{{< img src="/images/Pasted_image_20250219100248.jpg" alt="Créer un nouveau coffre" >}}
 
 Ce sont ces différentes associations que nous allons spécifier dans différents fichiers <a target="_blank" rel="noopener noreferrer" href="https://fr.wikipedia.org/wiki/YAML">YAML</a> que nous allons stocker dans le répertoire **match**.
 
 Par défaut, le dossier **match** contient un fichier *base.yml* avec plusieurs exemples d'utilisation : 
 
-![Créer un nouveau coffre](/images/Pasted_image_20250222153358.jpg)
+{{< img src="/images/Pasted_image_20250222153358.jpg" alt="Créer un nouveau coffre" >}}
 
 Vous pouvez créer autant de fichiers dans le dossier **match** que vous le souhaitez tant qu'ils respectent le même format que le fichier *base.yml*.
 
@@ -116,7 +116,7 @@ Lorsque vous définissez deux résultats pour un même raccourci, <a target="_bl
 ```
 
 La pop-up en question : 
-![Créer un nouveau coffre](/images/Pasted_image_20250219101705.jpg)
+{{< img src="/images/Pasted_image_20250219101705.jpg" alt="Créer un nouveau coffre" >}}
 
 ### Dynamique
 
@@ -182,7 +182,7 @@ L'extrait <a target="_blank" rel="noopener noreferrer" href="https://fr.wikipedi
 Pour ce formulaire, je vais avoir besoin d'appliquer des sauts de lignes. J'ajoute donc le symbole ```|``` après le mot clé ```form```.
 
 La pop-up me permettant de remplacer la variable définie dans le formulaire : 
-![Créer un nouveau coffre](/images/Pasted_image_20250219102231.jpg)
+{{< img src="/images/Pasted_image_20250219102231.jpg" alt="Créer un nouveau coffre" >}}
 
 
 ## Git
@@ -194,12 +194,12 @@ Tout d'abord nous allons créer un dossier **C:\github\espanso** et déplacer le
 Ensuite, nous allons supprimer le dossier **espanso** dans le répertoire d'origine : **C:\Users\yleve\AppData\Roaming\espanso**.
 
 Après, nous allons créer un lien symbolique avec la commande suivante : ```mklink /J "C:\Users\yleve\AppData\Roaming\espanso" "C:\github\espanso"```.
-![Créer un nouveau coffre](/images/Pasted_image_20250217113927.jpg)
+{{< img src="/images/Pasted_image_20250217113927.jpg" alt="Créer un nouveau coffre" >}}
 
 Sur <a target="_blank" rel="noopener noreferrer" href="https://github.com/">Github</a>, nous allons créer un repository **espanso** en private.
 
 Puis, avec **Git Bash**, dans le dossier **C:\github\espanso** nous allons écrire les commandes suivantes afin de stocker nos modifications sur <a target="_blank" rel="noopener noreferrer" href="https://github.com/">Github</a> : 
-![Créer un nouveau coffre](/images/Pasted_image_20250222180208.jpg)
+{{< img src="/images/Pasted_image_20250222180208.jpg" alt="Créer un nouveau coffre" >}}
 
 ```git init``` afin créer un repository <a target="_blank" rel="noopener noreferrer" href="https://git-scm.com/">Git</a> pour ce répertoire. 
 

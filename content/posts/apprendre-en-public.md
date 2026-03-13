@@ -5,7 +5,7 @@ draft: false
 categories: ["Blog"]
 description: "Découvrez pourquoi j'ai créé ce blog suite à la lecture d'Austin Kleon et comment la démarche 'apprendre en public' permet d'enrichir ses réflexions grâce aux échanges avec la communauté."
 cover:
-  image: "/images/Pasted_image_20240524134759.jpg"
+  image: "images/Pasted_image_20240524134759.jpg"
   alt: "Austin Kleon - Montrez votre travail !"
 ---
 La création de ce blog fait suite à la lecture du livre <a target="_blank" rel="noopener noreferrer" href="https://amzn.to/4bIT5nm">Austin Kleon - Montrez votre travail !</a>.
@@ -30,5 +30,5 @@ J'espère que vous y trouverez du contenu intéressant et surtout n'hésitez pas
 
 
 # Conseil de lecture
-![Austin Kleon - Montrez votre travail !](/images/Pasted_image_20240524134759.jpg)
+{{< img src="/images/Pasted_image_20240524134759.jpg" alt="Austin Kleon - Montrez votre travail !" >}}
 <center><a target="_blank" rel="noopener noreferrer" href="https://amzn.to/4bIT5nm">Austin Kleon - Montrez votre travail ! </a></center>

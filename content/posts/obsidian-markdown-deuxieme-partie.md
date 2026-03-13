@@ -6,7 +6,7 @@ tags: ["Obsidian"]
 categories: ["Obsidian"]
 description: "Maîtrisez les liens externes et internes en Markdown dans Obsidian pour connecter vos notes et ressources web."
 cover:
-  image: "/images/Pasted_image_20230722204313.jpg"
+  image: "images/Pasted_image_20230722204313.jpg"
   alt: "Markdown - Liens externes dans Obsidian"
 ---
 
@@ -24,10 +24,10 @@ Pour faire un lien vers une page web, indiquez entre crochet le texte qui sera v
 ```
 
 Ce que vous devez écrire :
-![Lien externe - Edition](/images/Pasted_image_20230722204313.jpg#center)
+{{< img src="/images/Pasted_image_20230722204313.jpg" alt="Lien externe - Edition" class="center" >}}
 
 Ce que vous obtiendrez : 
-![Lien externe - Visualisation](/images/Pasted_image_20230722204318.jpg#center)
+{{< img src="/images/Pasted_image_20230722204318.jpg" alt="Lien externe - Visualisation" class="center" >}}
 
 
 ### Lien externe vers une image
@@ -43,17 +43,17 @@ Si vous souhaitez changez la taille de l’image vous pouvez indiquer la largeur
 ```
 
 Ce que vous devez écrire :
-![Image - Edition](/images/Pasted_image_20230722204334.jpg#center)
+{{< img src="/images/Pasted_image_20230722204334.jpg" alt="Image - Edition" class="center" >}}
 
 Ce que vous devez obtiendrez :
-![Image - Visualisation](/images/Pasted_image_20230722204338.jpg#center)
+{{< img src="/images/Pasted_image_20230722204338.jpg" alt="Image - Visualisation" class="center" >}}
 
 
 ## Liens internes
 
 Pour les exemples qui suivent nous allons créer une nouvelle note intitulée **Ma deuxième note** :
 
-![Lien interne - Edition](/images/Pasted_image_20230722204348.jpg#center)
+{{< img src="/images/Pasted_image_20230722204348.jpg" alt="Lien interne - Edition" class="center" >}}
 
 
 ### Lien vers une note
@@ -71,10 +71,10 @@ Si vous souhaitez afficher un alias, vous devez l’indiquer après le nom de la
 Lorsque vous tapez les deux premiers crochets [[, Obsidian vous propose les notes disponibles.]]
 
 Ce que vous devez écrire : 
-![Lien vers une note - Edition](/images/Pasted_image_20230722204402.jpg#center)
+{{< img src="/images/Pasted_image_20230722204402.jpg" alt="Lien vers une note - Edition" class="center" >}}
 
 Ce que vous obtiendrez :
-![Lien vers une note - Visualisation](/images/Pasted_image_20230722204411.jpg#center)
+{{< img src="/images/Pasted_image_20230722204411.jpg" alt="Lien vers une note - Visualisation" class="center" >}}
 
 ### Lien vers le titre d’une note
 
@@ -84,13 +84,13 @@ Vous pouvez faire un lien vers l’un des titres contenus dans votre note, pour 
 ```
 
 Obsidian vous propose le titre que vous souhaitez lier : 
-![Lien vers un titre - Proposition](/images/Pasted_image_20230722204431.jpg#center)
+{{< img src="/images/Pasted_image_20230722204431.jpg" alt="Lien vers un titre - Proposition" class="center" >}}
 
 Le résultat en mode Edition :
-![Lien vers un titre - Edition](/images/Pasted_image_20230722204436.jpg#center)
+{{< img src="/images/Pasted_image_20230722204436.jpg" alt="Lien vers un titre - Edition" class="center" >}}
 
 Le résultat en mode Visualisation :
-![Lien vers un titre - Visualisation](/images/Pasted_image_20230722204441.jpg#center)
+{{< img src="/images/Pasted_image_20230722204441.jpg" alt="Lien vers un titre - Visualisation" class="center" >}}
 
 ### Lien vers le contenu d’une note
 
@@ -99,12 +99,12 @@ Vous pouvez également faire un lien vers le contenu d’une note, pour cela rep
 [[Ma deuxième note^c095da]]
 ```
 Obsidian vous propose le contenu que vous souhaitez lier : 
-![Lien vers une contenu - Proposition](/images/Pasted_image_20230722204450.jpg#center)
+{{< img src="/images/Pasted_image_20230722204450.jpg" alt="Lien vers une contenu - Proposition" class="center" >}}
 
 Le résultat en mode Edition :
-![Lien vers une contenu - Edition](/images/Pasted_image_20230722204455.jpg#center)
+{{< img src="/images/Pasted_image_20230722204455.jpg" alt="Lien vers une contenu - Edition" class="center" >}}
 
 Le résultat en mode Visualisation :
-![Lien vers une contenu - Visualisation](/images/Pasted_image_20230722204459.jpg#center)
+{{< img src="/images/Pasted_image_20230722204459.jpg" alt="Lien vers une contenu - Visualisation" class="center" >}}
 
 
