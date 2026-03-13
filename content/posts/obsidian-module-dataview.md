@@ -4,6 +4,7 @@ date: 2024-06-15T08:00:00+02:00
 draft: false
 tags: ["Obsidian"]
 categories: ["Obsidian"]
+series: ["Obsidian"]
 description: "Découvrez le module Dataview pour Obsidian : faites des requêtes sur votre coffre-fort en utilisant les méta-données et les tags."
 cover:
   image: "images/Pasted_image_20240826131103.jpg"

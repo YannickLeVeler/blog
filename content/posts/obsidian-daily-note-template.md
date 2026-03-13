@@ -4,6 +4,7 @@ date: 2024-06-14T08:00:00+02:00
 draft: false
 tags: ["Obsidian"]
 categories: ["Obsidian"]
+series: ["Obsidian"]
 description: "Créez votre modèle de note quotidienne dans Obsidian avec le module Templater pour structurer vos journées efficacement."
 cover:
   image: "images/Pasted_image_20240820202624.jpg"

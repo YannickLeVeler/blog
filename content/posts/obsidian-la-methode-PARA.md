@@ -4,6 +4,7 @@ date: 2024-06-09T08:00:00+02:00
 draft: false
 tags: ["Obsidian"]
 categories: ["Obsidian"]
+series: ["Obsidian"]
 description: "Découvrez comment organiser votre coffre Obsidian avec la méthode PARA de Tiago Forte : Projects, Areas, Resources, Archives."
 cover:
   image: "images/Pasted_image_20230917180552.jpg"

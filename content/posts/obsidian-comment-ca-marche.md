@@ -4,6 +4,7 @@ date: 2024-06-04T06:00:00+02:00
 draft: false
 tags: ["Obsidian"]
 categories: ["Obsidian"]
+series: ["Obsidian"]
 description: "Premiers pas avec Obsidian : comment télécharger l'application, créer votre premier coffre et commencer à prendre des notes."
 cover:
   image: "images/Pasted_image_20230722202825.jpg"

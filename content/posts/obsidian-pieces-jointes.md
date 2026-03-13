@@ -4,6 +4,7 @@ date: 2024-06-10T08:00:00+02:00
 draft: false
 tags: ["Obsidian"]
 categories: ["Obsidian"]
+series: ["Obsidian"]
 description: "Gérez efficacement vos pièces jointes dans Obsidian : screenshots, images et fichiers organisés dans un dossier dédié."
 cover:
   image: "images/Pasted_image_20240610214225.jpg"

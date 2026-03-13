@@ -4,6 +4,7 @@ date: 2024-06-08T08:00:00+02:00
 draft: false
 tags: ["Obsidian"]
 categories: ["Obsidian"]
+series: ["Obsidian"]
 description: "Maîtrisez les liens externes et internes en Markdown dans Obsidian pour connecter vos notes et ressources web."
 cover:
   image: "images/Pasted_image_20230722204313.jpg"

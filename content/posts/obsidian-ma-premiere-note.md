@@ -4,6 +4,7 @@ date: 2024-06-05T08:00:00+02:00
 draft: false
 tags: ["Obsidian"]
 categories: ["Obsidian"]
+series: ["Obsidian"]
 description: "Créez et organisez votre première note dans Obsidian : renommer, formater et naviguer dans votre coffre-fort numérique."
 cover:
   image: "images/Pasted_image_20230722203300.jpg"

@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /c/YALE/github/blog/themes/PaperMod -name \"*head*\" -o -name \"*meta*\" -o -name \"*seo*\" 2>/dev/null | head -10)",
+      "Bash(find /c/YALE/github/blog/themes/PaperMod/layouts -name \"*.html\" 2>/dev/null | head -20)",
+      "Bash(find /c/YALE/github/blog -name \"netlify.toml\" -o -name \"vercel.json\" -o -name \".github\" -o -name \"*.toml\" 2>/dev/null | grep -v node_modules | head -20)",
+      "Bash(find C:/YALE/github/blog/themes -type f -name \"*.html\" | xargs grep -l \"cover\" 2>/dev/null | head -10)",
+      "Bash(python3 -c \"\nimport os\nfor root, dirs, files in os.walk\\('C:/YALE/github/blog/content/posts'\\):\n    for f in files:\n        path = os.path.join\\(root, f\\)\n        with open\\(path, 'r', encoding='utf-8'\\) as fh:\n            content = fh.read\\(\\)\n            if 'image:' in content and 'cover:' in content:\n                for line in content.split\\('\\\\n'\\):\n                    if 'image:' in line:\n                        print\\(f'{f}: {line.strip\\(\\)}'\\)\n\")",
+      "Bash(dir C:/YALE/github/blog/themes/PaperMod/)",
+      "Bash(git -C C:/YALE/github/blog submodule status)",
+      "Bash(git -C C:/YALE/github/blog submodule update --init --recursive)",
+      "Bash(cd C:/YALE/github/blog && hugo --minify 2>&1 | tail -20)",
+      "Bash(grep -h \"^##\\\\|^###\" /c/YALE/github/blog/content/posts/*.md | head -50)",
+      "Bash(for file:*)"
+    ]
+  }
+}

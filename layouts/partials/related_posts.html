@@ -1,0 +1,19 @@
+{{- $currentPage := . -}}
+{{- with .Params.series -}}
+  {{- $siteSeries := site.Taxonomies.series -}}
+  {{- range $seriesName := . -}}
+    {{- with index $siteSeries ($seriesName | urlize) -}}
+      {{- $pages := where .Pages "Permalink" "ne" $currentPage.Permalink -}}
+      {{- if gt (len $pages) 0 -}}
+<div class="related-posts">
+  <h3>Autres articles de cette série</h3>
+  <ul>
+    {{- range $pages.ByDate -}}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{- end -}}
+  </ul>
+</div>
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

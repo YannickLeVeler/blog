@@ -4,6 +4,7 @@ date: 2024-06-03T08:00:00+02:00
 draft: false
 tags: ["Obsidian"]
 categories: ["Obsidian"]
+series: ["Obsidian"]
 description: "Pourquoi choisir Obsidian plutôt que OneNote, Evernote ou Notion ? Découvrez les avantages uniques de cet outil de gestion de connaissances personnelles."
 cover:
   image: "images/Pasted_image_20230722202435.jpg"

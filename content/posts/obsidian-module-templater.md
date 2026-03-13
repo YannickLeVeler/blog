@@ -4,6 +4,7 @@ date: 2024-06-13T10:56:53+02:00
 draft: false
 tags: ["Obsidian"]
 categories: ["Obsidian"]
+series: ["Obsidian"]
 description: "Installez le module Templater dans Obsidian pour créer des modèles de notes dynamiques avec insertion automatique de dates et de contenu."
 cover:
   image: "images/Pasted_image_20240616110148.jpg"

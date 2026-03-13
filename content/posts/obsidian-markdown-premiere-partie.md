@@ -4,6 +4,7 @@ date: 2024-06-07T08:00:00+02:00
 draft: false
 tags: ["Obsidian"]
 categories: ["Obsidian"]
+series: ["Obsidian"]
 description: "Apprenez les balises Markdown essentielles pour formater vos notes dans Obsidian : titres, gras, italique, listes et tableaux."
 cover:
   image: "images/Pasted_image_20230722203923.jpg"

@@ -4,6 +4,7 @@ date: 2024-06-06T08:00:00+02:00
 draft: false
 tags: ["Obsidian"]
 categories: ["Obsidian"]
+series: ["Obsidian"]
 description: "Synchronisez votre coffre Obsidian sur plusieurs appareils gratuitement avec Dropbox : guide d'installation et de configuration pas à pas."
 cover:
   image: "images/Pasted_image_20230722203707.jpg"

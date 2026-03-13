@@ -3,6 +3,7 @@ title: "Obsidian - Module Dataview"
 date: 2024-10-27T08:00:00+02:00
 draft: true
 tags: ["Obsidian"]
+series: ["Obsidian"]
 ---
 Dans l’[article précédent](/posts/obsidian-module-dataview), nous avons présenté le fonctionnement des requêtes dans le module <a target="_blank" rel="noopener noreferrer" href="https://github.com/blacksmithgu/obsidian-dataview"> **Dataview**</a>.
 

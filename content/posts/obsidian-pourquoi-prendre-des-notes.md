@@ -4,6 +4,7 @@ date: 2024-06-02T08:00:00+02:00
 draft: false
 tags: ["Obsidian"]
 categories: ["Obsidian"]
+series: ["Obsidian"]
 description: "Comprenez l'importance de la prise de notes pour retenir l'information, structurer votre pensée et progresser dans votre vie professionnelle."
 cover:
   image: "images/Pasted_image_20240602184529.jpg"
