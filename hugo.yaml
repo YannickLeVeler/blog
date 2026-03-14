@@ -4,6 +4,11 @@ defaultContentLanguage: fr
 title: Yannick Le Véler
 theme: PaperMod
 
+languages:
+  fr:
+    languageName: Français
+    weight: 1
+
 enableRobotsTXT: true
 
 taxonomies:
@@ -16,10 +21,20 @@ params:
   env: production
   defaultTheme: dark
   description: "Blog de Yannick Le Véler, Manager Data Analytics et enseignant. Découvrez mes notes sur la Data, les nouvelles technologies, la productivité et Obsidian."
+  keywords:
+    - Data
+    - Obsidian
+    - Productivité
+    - PKM
+    - Analytics
+    - Technologies
   ShowPostNavLinks: true
   ShowToc: true
   TocOpen: false
   googleAnalyticsID: "G-8YS6GWNSJK"
+
+  social:
+    twitter: "@YannickLeVeler"
 
   homeInfoParams:
     title: "Bienvenue,"

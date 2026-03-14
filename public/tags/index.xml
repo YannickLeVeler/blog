@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Tags on Yannick Le Véler</title>
-    <link>http://yannickleveler.com/tags/</link>
-    <description>Recent content in Tags on Yannick Le Véler</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="http://yannickleveler.com/tags/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tags on Yannick Le Véler</title><link>https://yannickleveler.com/tags/</link><description>Recent content in Tags on Yannick Le Véler</description><generator>Hugo -- 0.116.1</generator><language>fr</language><lastBuildDate>Sat, 22 Feb 2025 08:00:00 +0200</lastBuildDate><atom:link href="https://yannickleveler.com/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Espanso</title><link>https://yannickleveler.com/tags/espanso/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yannickleveler.com/tags/espanso/</guid><description/></item><item><title>Obsidian</title><link>https://yannickleveler.com/tags/obsidian/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yannickleveler.com/tags/obsidian/</guid><description/></item></channel></rss>
