@@ -15,7 +15,11 @@
       "Bash(git:*)",
       "Bash(wc:*)",
       "Bash(grep:*)",
-      "Bash(hugo:*)"
+      "Bash(hugo:*)",
+      "Bash(python3:*)",
+      "Read(//tmp/**)",
+      "Bash(node -e \":*)",
+      "Bash(cd:*)"
     ]
   }
 }
