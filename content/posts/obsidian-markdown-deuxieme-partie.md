@@ -2,7 +2,7 @@
 title: "Obsidian - Markdown : les liens externes et internes"
 date: 2024-06-08T08:00:00+02:00
 draft: false
-tags: ["Obsidian"]
+tags: ["Markdown", "Liens"]
 categories: ["Obsidian"]
 series: ["Obsidian"]
 description: "Maîtrisez les liens externes et internes en Markdown dans Obsidian pour connecter vos notes et ressources web."

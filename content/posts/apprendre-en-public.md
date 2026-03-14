@@ -2,6 +2,7 @@
 title: "Apprendre en public"
 date: 2024-06-01T08:00:00+02:00
 draft: false
+tags: ["Apprendre en public", "Partage"]
 categories: ["Blog"]
 description: "Découvrez pourquoi j'ai créé ce blog suite à la lecture d'Austin Kleon et comment la démarche 'apprendre en public' permet d'enrichir ses réflexions grâce aux échanges avec la communauté."
 cover:

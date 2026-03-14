@@ -2,7 +2,7 @@
 title: "Obsidian - Comment ça marche ?"
 date: 2024-06-04T06:00:00+02:00
 draft: false
-tags: ["Obsidian"]
+tags: ["PKM", "Démarrage"]
 categories: ["Obsidian"]
 series: ["Obsidian"]
 description: "Premiers pas avec Obsidian : comment télécharger l'application, créer votre premier coffre et commencer à prendre des notes."
@@ -10,6 +10,8 @@ cover:
   image: "images/Pasted_image_20230722202825.jpg"
   alt: "Créer un nouveau coffre dans Obsidian"
 ---
+Dans l'[article précédent](/posts/obsidian-pourquoi-choisir-obsidian), nous avons vu pourquoi Obsidian est un excellent outil de PKM. Il est maintenant temps de l'installer et de faire vos premiers pas.
+
 Si vous voulez commencer à travailler sur <a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"> **Obsidian**</a> , la première étape consiste à télécharger l'application avec le lien suivant : [_https://obsidian.md/download_](https://obsidian.md/download)
 
 Pas d'inquiétude, <a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"> **Obsidian**</a>  fonctionne sur iOS, Android, Windows, Mac et Linux.

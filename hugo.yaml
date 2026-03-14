@@ -74,6 +74,10 @@ menu:
       name: Recherche
       url: search
       weight: 30
+    - identifier: about
+      name: À propos
+      url: about
+      weight: 35
     - identifier: notes
       name: Notes
       url: "https://notes.yannickleveler.com"

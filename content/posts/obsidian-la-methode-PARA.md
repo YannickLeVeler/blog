@@ -2,7 +2,7 @@
 title: "Obsidian - La Methode PARA"
 date: 2024-06-09T08:00:00+02:00
 draft: false
-tags: ["Obsidian"]
+tags: ["PARA", "Organisation"]
 categories: ["Obsidian"]
 series: ["Obsidian"]
 description: "Découvrez comment organiser votre coffre Obsidian avec la méthode PARA de Tiago Forte : Projects, Areas, Resources, Archives."
@@ -10,6 +10,8 @@ cover:
   image: "images/Pasted_image_20230917180552.jpg"
   alt: "Tiago Forte - The PARA Method"
 ---
+Dans les [articles précédents](/posts/obsidian-markdown-deuxieme-partie), nous avons maîtrisé Markdown dans Obsidian. Il est maintenant temps d'organiser notre coffre de façon durable.
+
 Vous connaissez maintenant le minimum vital pour utiliser <a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"> **Obsidian**</a>.
 
 Je vous propose à partir de maintenant de vous montrer comment je fonctionne avec au quotidien.

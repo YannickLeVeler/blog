@@ -2,7 +2,7 @@
 title: "Obsidian - Synchronisation via Dropbox"
 date: 2024-06-06T08:00:00+02:00
 draft: false
-tags: ["Obsidian"]
+tags: ["Synchronisation", "Dropbox"]
 categories: ["Obsidian"]
 series: ["Obsidian"]
 description: "Synchronisez votre coffre Obsidian sur plusieurs appareils gratuitement avec Dropbox : guide d'installation et de configuration pas à pas."
@@ -10,6 +10,8 @@ cover:
   image: "images/Pasted_image_20230722203707.jpg"
   alt: "Synchronisation Obsidian via Dropbox"
 ---
+Dans l'[article précédent](/posts/obsidian-ma-premiere-note), nous avons créé et organisé notre première note dans Obsidian. La prochaine étape naturelle : accéder à son coffre depuis tous ses appareils.
+
 Je possède deux ordinateurs sous Windows, un professionnel et un personnel. Je possède également un téléphone sous Android.
 
 J’apprécie <a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"> **Obsidian**</a>, mais impossible de continuer à l’utiliser si je ne peux pas écrire des notes et y accéder de tous mes appareils.

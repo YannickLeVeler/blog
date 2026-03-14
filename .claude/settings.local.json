@@ -11,7 +11,11 @@
       "Bash(git -C C:/YALE/github/blog submodule update --init --recursive)",
       "Bash(cd C:/YALE/github/blog && hugo --minify 2>&1 | tail -20)",
       "Bash(grep -h \"^##\\\\|^###\" /c/YALE/github/blog/content/posts/*.md | head -50)",
-      "Bash(for file:*)"
+      "Bash(for file:*)",
+      "Bash(git:*)",
+      "Bash(wc:*)",
+      "Bash(grep:*)",
+      "Bash(hugo:*)"
     ]
   }
 }

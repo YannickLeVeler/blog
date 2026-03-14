@@ -2,7 +2,7 @@
 title: "Obsidian - Pourquoi choisir Obsidian ?"
 date: 2024-06-03T08:00:00+02:00
 draft: false
-tags: ["Obsidian"]
+tags: ["PKM", "Prise de notes"]
 categories: ["Obsidian"]
 series: ["Obsidian"]
 description: "Pourquoi choisir Obsidian plutôt que OneNote, Evernote ou Notion ? Découvrez les avantages uniques de cet outil de gestion de connaissances personnelles."
@@ -10,6 +10,8 @@ cover:
   image: "images/Pasted_image_20230722202435.jpg"
   alt: "Dossiers, liens et balises dans Obsidian"
 ---
+
+Dans l'[article précédent](/posts/obsidian-pourquoi-prendre-des-notes), nous avons vu pourquoi prendre des notes est essentiel. Voyons maintenant pourquoi **Obsidian** est l'outil idéal pour le faire.
 
 <a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"> **Obsidian**</a> est une application de <a target="_blank" rel="noopener noreferrer" href="https://fr.wikipedia.org/wiki/Gestion_des_connaissances_personnelles"> gestion des connaissances personnelles </a> (PKM : Personal Knowledge Management). Il existe de nombreuses applications de ce type : <a target="_blank" rel="noopener noreferrer" href="https://www.onenote.com/"> OneNote</a>, <a target="_blank" rel="noopener noreferrer" href="https://evernote.com/fr-fr"> Evernote</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.notion.so/fr-fr"> Notion</a>...
 

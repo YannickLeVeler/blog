@@ -2,7 +2,7 @@
 title: "Obsidian - Module Dataview"
 date: 2024-06-15T08:00:00+02:00
 draft: false
-tags: ["Obsidian"]
+tags: ["Plugin", "Dataview"]
 categories: ["Obsidian"]
 series: ["Obsidian"]
 description: "Découvrez le module Dataview pour Obsidian : faites des requêtes sur votre coffre-fort en utilisant les méta-données et les tags."

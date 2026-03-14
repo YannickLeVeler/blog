@@ -2,7 +2,7 @@
 title: "Obsidian - Ma Premiere Note"
 date: 2024-06-05T08:00:00+02:00
 draft: false
-tags: ["Obsidian"]
+tags: ["Markdown", "Démarrage"]
 categories: ["Obsidian"]
 series: ["Obsidian"]
 description: "Créez et organisez votre première note dans Obsidian : renommer, formater et naviguer dans votre coffre-fort numérique."

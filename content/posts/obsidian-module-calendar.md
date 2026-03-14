@@ -2,7 +2,7 @@
 title: "Obsidian - Module Calendar"
 date: 2024-06-11T08:00:00+02:00
 draft: false
-tags: ["Obsidian"]
+tags: ["Plugin", "Calendar"]
 categories: ["Obsidian"]
 series: ["Obsidian"]
 description: "Installez et configurez le module Calendar dans Obsidian pour naviguer dans vos notes par date et créer des notes quotidiennes."
@@ -10,6 +10,8 @@ cover:
   image: "images/Pasted_image_20240611203403.jpg"
   alt: "Module Calendar dans Obsidian"
 ---
+Dans l'[article précédent](/posts/obsidian-pieces-jointes), nous avons organisé nos pièces jointes dans un dossier dédié. Passons maintenant aux modules complémentaires qui enrichissent notre utilisation quotidienne.
+
 Lorsque je cherche mes notes dans <a target="_blank" rel="noopener noreferrer" href="https://obsidian.md/"> **Obsidian**</a>, j'utilise trois axes : 
 - la date,
 - le sujet concerné,

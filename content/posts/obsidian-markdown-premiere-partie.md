@@ -2,7 +2,7 @@
 title: "Obsidian - Markdown : la mise en forme"
 date: 2024-06-07T08:00:00+02:00
 draft: false
-tags: ["Obsidian"]
+tags: ["Markdown", "Mise en forme"]
 categories: ["Obsidian"]
 series: ["Obsidian"]
 description: "Apprenez les balises Markdown essentielles pour formater vos notes dans Obsidian : titres, gras, italique, listes et tableaux."

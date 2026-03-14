@@ -2,7 +2,7 @@
 title: "Espanso"
 date: 2025-02-22T08:00:00+02:00
 draft: false
-tags: ["Espanso"]
+tags: ["Espanso", "Automatisation", "Text Expander"]
 categories: ["Productivité"]
 description: "Espanso est un text expander gratuit et open-source. Découvrez comment l'installer et le configurer pour gagner du temps au quotidien."
 cover:

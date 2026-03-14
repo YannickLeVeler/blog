@@ -2,7 +2,7 @@
 title: "Obsidian Daily Note Template - Première partie"
 date: 2024-06-14T08:00:00+02:00
 draft: false
-tags: ["Obsidian"]
+tags: ["Template", "Daily Note"]
 categories: ["Obsidian"]
 series: ["Obsidian"]
 description: "Créez votre modèle de note quotidienne dans Obsidian avec le module Templater pour structurer vos journées efficacement."
